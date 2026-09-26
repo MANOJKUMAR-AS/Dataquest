@@ -1,0 +1,43 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model / large generated files
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+*.tmp
+*.temp
+# Generated transcript files
+outputs/taskA_transcripts_grouped.csv
+outputs/taskA_transcripts_grouped.txt
+outputs/taskA_transcripts.csv
+outputs/taskA_transcripts.txt

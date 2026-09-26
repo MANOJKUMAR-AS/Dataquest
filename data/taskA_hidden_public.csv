@@ -1,0 +1,205 @@
+episode_id,message_id,sender,timestamp,text
+A002,A002-M001,Tobias,2026-01-13 09:05,Frame time on the cave level jumped to 24ms after yesterday's merge. Profiler is pointing at the water shader.
+A002,A002-M005,Marcus,2026-01-13 09:31,We need about thirty playtesters for the build going out end of month. Where are we pulling them from?
+A002,A002-M002,Priya,2026-01-13 10:52,That'll be the reflection pass. I added a second sample loop for the caustics and never capped it.
+A002,A002-M003,Tobias,2026-01-13 15:28,Can we drop it to one sample below a certain distance? Nobody's looking at caustics from across the room.
+A002,A002-M008,Priya,2026-01-13 15:37,Someone on the forum has a save that won't load past the second boss. They sent the file.
+A002,A002-M009,Marcus,2026-01-13 16:29,Does it crash or just hang?
+A002,A002-M004,Priya,2026-01-13 17:32,"Yeah, distance-based LOD is easy enough there. I'll push a branch tonight."
+A002,A002-M010,Priya,2026-01-13 17:53,"Hangs. The inventory array has a null entry where a quest item should be, so the loader spins forever."
+A002,A002-M006,Tobias,2026-01-14 16:09,Discord regulars got us fifteen last time and they give decent written feedback.
+A002,A002-M007,Marcus,2026-01-14 16:26,I'll post there Thursday and top up from the mailing list if we're short.
+A003,A003-M001,Ngozi,2026-02-09 07:40,Is anyone able to take my Thursday late? My daughter's school thing got moved.
+A003,A003-M002,Erin,2026-02-09 07:49,I can do Thursday if you cover my Sunday early.
+A003,A003-M004,Dan,2026-02-09 08:11,We're down to two working infusion pumps on the ward. One of the others is throwing an occlusion alarm with nothing occluded.
+A003,A003-M005,Marta,2026-02-09 08:25,"Tag it and send it to biomed, don't leave it in the bay. Someone will plug it in at 3am otherwise."
+A003,A003-M006,Dan,2026-02-09 08:47,Tagged. I've asked the ward next door if they can lend us one until Friday.
+A003,A003-M008,Erin,2026-02-09 09:56,Fridge temperature log has a blank for yesterday's afternoon check.
+A003,A003-M009,Marta,2026-02-09 11:44,Fill it as not recorded and initial it — don't back-fill a number we didn't take.
+A003,A003-M007,Marta,2026-02-09 14:36,"Good. If they can't, escalate to the site manager rather than running short overnight."
+A003,A003-M003,Ngozi,2026-02-09 19:21,Deal. I'll put it on the swap sheet so Marta sees it before she does the rota.
+A009,A009-M001,Barry,2026-03-17 07:05,"Pour is booked for Tuesday 7am, two trucks. Weather looks dry but cold."
+A009,A009-M002,Simeon,2026-03-17 07:10,"If it's under three degrees overnight we'll want blankets on it, not just the sheeting."
+A009,A009-M011,Cal,2026-03-17 12:01,"Left my good level on site yesterday, if anyone's seen it shout."
+A009,A009-M005,Dot,2026-03-17 13:37,Scaffold inspection tag expired on the east elevation. Nobody goes up until it's signed off.
+A009,A009-M003,Barry,2026-03-17 14:03,I'll get blankets on the order. Better than chipping it out in a fortnight.
+A009,A009-M006,Cal,2026-03-17 14:24,Inspector said he could come Thursday afternoon at the earliest.
+A009,A009-M007,Dot,2026-03-17 14:30,Then the render team moves to the back wall Thursday morning and we lose nothing.
+A009,A009-M008,Simeon,2026-03-17 19:57,Rebar delivery is short by about forty of the 12mm bars.
+A009,A009-M009,Barry,2026-03-17 20:50,Short or missing? There was a bundle left on the pavement side yesterday.
+A009,A009-M010,Simeon,2026-03-17 21:07,"Checked, that's the 16mm. I'll ring the supplier before they close."
+A009,A009-M004,Dot,2026-03-18 07:41,Make sure the pump has access — the skip is currently sat exactly where the lorry needs to be.
+A010,A010-M001,cust_hollis,2026-08-19 09:00,My download speed has been under 4Mbps since Saturday evening. Paying for 100. Nothing has changed at my end.
+A010,A010-M005,cust_bryony_k,2026-08-19 11:24,The middle light on the router is orange and flashing. What does orange mean?
+A010,A010-M003,cust_dmpatel,2026-08-19 13:42,"I've been charged twice for August. Same amount, two days apart."
+A010,A010-M004,Agent Pete,2026-08-19 14:00,"I can see both payments. The second was a duplicate from a failed retry — I've refunded it, and it should clear back to your card in three to five working days."
+A010,A010-M009,cust_marisol,2026-08-19 18:56,"Do you offer a static IP on the business package, and is it an extra charge?"
+A010,A010-M010,Agent Nadia,2026-08-19 19:10,"Yes, a single static IP is included on the business package at no extra cost. A block of five is available for an additional monthly fee."
+A010,A010-M007,cust_theo99,2026-08-20 08:46,I'm moving house on the 30th. Can the service move with me or do I have to start a new contract?
+A010,A010-M008,Agent Pete,2026-08-20 16:41,"It moves with you and your contract terms stay the same. I'll need the new address and a preferred activation date, ideally at least ten working days ahead."
+A010,A010-M006,Agent Nadia,2026-08-21 12:35,"Orange and flashing on that model means it's searching for a connection. Please leave it powered on for ten minutes — if it's still orange after that, I'll book an engineer."
+A010,A010-M002,Agent Nadia,2026-08-21 15:15,Thanks for the detail. I can see errors on your line since Saturday 21:40 — I've raised a fault with the network team and they'll test remotely within 24 hours.
+A011,A011-M001,Orla,2026-09-28 17:45,Warden says the upper path past the waterfall is washed out after last week's rain.
+A011,A011-M002,Jamie,2026-09-28 18:54,Is the lower route still passable? It adds maybe an hour but it's not exposed.
+A011,A011-M003,Orla,2026-09-28 19:06,Passable and boggy. Anyone in trail runners is going to have a miserable day.
+A011,A011-M004,Wen,2026-09-28 19:14,"Lower route then, and I'll say boots-only in the group message."
+A011,A011-M008,Jamie,2026-09-28 21:59,Does anyone have a spare 40 litre pack? Someone new is coming and only owns a daysack.
+A011,A011-M009,Orla,2026-09-29 10:00,"I've got one, it's old but the hip belt is fine."
+A011,A011-M005,Wen,2026-09-29 10:13,Who's driving Saturday? I can take four including me.
+A011,A011-M006,Jamie,2026-09-29 10:22,"I can take three but I'd rather not do the last bit of track, my suspension is already complaining."
+A011,A011-M007,Wen,2026-09-29 10:41,Park at the village hall then and we'll shuttle from there.
+A011,A011-M010,Jamie,2026-09-29 13:30,"Perfect, bring it Saturday and I'll show them how to fit it properly before we set off."
+A021,A021-M001,Reception_Jo,2026-02-17 08:15,"The autoclave cycle failed twice this morning, it stops partway and beeps."
+A021,A021-M002,Dr Halim,2026-02-17 08:17,Don't use anything from those cycles. Do we have enough sterile packs to get through today?
+A021,A021-M003,Reception_Jo,2026-02-17 08:31,Enough for about nine patients. We've got fourteen booked.
+A021,A021-M004,Dr Halim,2026-02-17 08:40,"Then call the last five and move them to Thursday, and get the engineer out today not next week."
+A021,A021-M005,Priyanka,2026-02-17 09:00,The hygienist list for next month is only half full.
+A021,A021-M006,Reception_Jo,2026-02-17 09:11,"I can text the recall list, that usually fills it within a couple of days."
+A021,A021-M007,Priyanka,2026-02-17 09:21,"Text them, but exclude anyone who's already been in since January."
+A021,A021-M008,Dr Halim,2026-02-17 09:31,We keep running fifteen minutes late by mid-afternoon every single day.
+A021,A021-M009,Priyanka,2026-02-17 09:52,"It's the 20 minute slots. Anything involving a child takes thirty, realistically."
+A021,A021-M010,Dr Halim,2026-02-17 11:51,Then children get thirty minute slots from March and we stop pretending otherwise.
+A028,A028-M001,Yara,2026-10-05 08:50,"Plate 6 of the growth assay is contaminated, there's fungal growth in four wells."
+A028,A028-M002,Prof Leung,2026-10-05 10:15,Was that the batch made up on Friday? Check the media bottle before you blame the hood.
+A028,A028-M005,Tomas_R,2026-10-05 10:16,Confocal is booked solid until the 19th according to the online calendar.
+A028,A028-M008,Nadia,2026-10-05 10:26,The figure panel for the paper has five subplots and they're all slightly different sizes.
+A028,A028-M009,Prof Leung,2026-10-05 11:41,Rebuild it on a grid with consistent axes. Reviewers notice that before they notice the data.
+A028,A028-M006,Nadia,2026-10-05 11:45,"Some of those are placeholder bookings from the group upstairs, they never turn up after four."
+A028,A028-M007,Tomas_R,2026-10-05 11:52,I'll take a late slot then and see whether it's actually free.
+A028,A028-M010,Nadia,2026-10-05 14:39,I'll redo it in one script so the whole panel regenerates from raw.
+A028,A028-M011,Tomas_R,2026-10-05 15:04,"Send me the script when it works, I'll use the same one for my chapter."
+A028,A028-M012,Yara,2026-10-05 16:36,Somebody has labelled a box in the -80 with a single letter and no date. Please come forward.
+A028,A028-M003,Yara,2026-10-06 13:31,"It was Friday's bottle, and the second plate from it is showing it too."
+A028,A028-M004,Prof Leung,2026-10-06 13:38,"Bin both plates and the bottle, and autoclave before disposal."
+A032,A032-M001,Mr Delaney,2026-02-03 16:40,"We've lost the boy playing the innkeeper, his family are moving at half term."
+A032,A032-M002,Kavitha,2026-02-03 19:20,Understudy knows the lines but has never done it with the blocking.
+A032,A032-M003,Mr Delaney,2026-02-03 19:23,Then we run his scenes Thursday and Friday rather than the full show.
+A032,A032-M004,Sean_T,2026-02-03 19:43,Can we cut the second innkeeper scene entirely? It's two minutes and it doesn't move anything.
+A032,A032-M005,Kavitha,2026-02-03 21:15,Costumes: we're four cloaks short and the sewing club can't do them by the 20th.
+A032,A032-M008,Sean_T,2026-02-04 08:46,The lighting desk keeps dropping channel 6 mid-cue.
+A032,A032-M012,Mr Delaney,2026-02-04 08:58,Reminder that the hall is not a storage unit and the flats cannot live in the corridor.
+A032,A032-M009,Mr Delaney,2026-02-04 11:09,Is it the desk or the lantern? Swap it to a spare channel and see if the fault follows.
+A032,A032-M010,Sean_T,2026-02-04 11:17,"Fault follows the lantern, so it's the lamp or the cable, not the desk."
+A032,A032-M011,Kavitha,2026-02-04 13:02,"Good, a lantern we can borrow. A desk we cannot."
+A032,A032-M006,Sean_T,2026-02-05 07:25,Charity shop curtains. That's how every school does it and nobody has ever noticed.
+A032,A032-M007,Kavitha,2026-02-05 09:45,"I'll go Saturday, and I'll take the fabric scissors this time."
+A040,A040-M001,Callum,2026-03-09 07:50,The Ashfield job roof is a lot older than the survey photos suggested. Two battens are rotten.
+A040,A040-M002,Jo_Hardy,2026-03-09 08:19,Stop and price the repair separately. We're not mounting rails on rot and owning it later.
+A040,A040-M003,Callum,2026-03-09 09:23,Agreed. I'll photograph it properly and send it to the customer this morning.
+A040,A040-M005,Ryan,2026-03-09 10:43,"Inverter for the Harlow install is on back order, three weeks."
+A040,A040-M006,Jo_Hardy,2026-03-09 10:56,"Can we substitute the other brand? Same output, slightly different monitoring app."
+A040,A040-M004,Ryan,2026-03-09 11:57,I've got spare batten in the yard if they want it done same visit.
+A040,A040-M007,Ryan,2026-03-09 12:46,"We can, but the customer specifically asked about the app in the quote conversation."
+A040,A040-M008,Jo_Hardy,2026-03-09 15:07,"Then ring them, explain both options and let them choose. Don't swap silently."
+A040,A040-M009,Jo_Hardy,2026-03-09 15:18,Two DNO applications are still sitting unacknowledged after four weeks.
+A040,A040-M010,Callum,2026-03-09 15:38,"That's about normal for them lately, but chase in writing so there's a trail."
+A040,A040-M012,Callum,2026-03-09 16:05,"Whoever borrowed the good torque wrench, it is not in the van and I am watching you all."
+A040,A040-M011,Jo_Hardy,2026-03-10 07:15,"Chasing today, and I'll copy the customers in so they can see it isn't us."
+A047,A047-M001,Yvette,2026-09-03 09:40,The Marlow Street flat has had four viewings and no offers. It's been six weeks.
+A047,A047-M005,Sol,2026-09-03 11:19,"Tenant at 6B has reported damp in the bedroom corner, photos look like condensation rather than rising."
+A047,A047-M002,Deepa,2026-09-03 11:46,The photos are from winter and the living room looks grey. That's half of it.
+A047,A047-M006,Deepa,2026-09-03 11:54,"Send the damp surveyor anyway. If it's condensation we get that in writing, which protects everyone."
+A047,A047-M007,Sol,2026-09-03 12:18,Booked for Monday.
+A047,A047-M008,Deepa,2026-09-03 14:22,Three deposit returns are overdue on the ten day rule.
+A047,A047-M009,Yvette,2026-09-03 14:29,Which ones are disputed? Those have a different clock.
+A047,A047-M010,Deepa,2026-09-03 14:47,Only one is disputed. The other two are just sitting in the approvals queue.
+A047,A047-M011,Yvette,2026-09-03 14:51,"Then push those two today, we get complaints about this every quarter."
+A047,A047-M003,Yvette,2026-09-04 07:42,"Reshoot Thursday morning then, light's best in there before eleven."
+A047,A047-M004,Sol,2026-09-04 07:46,And drop the rent by £25 rather than holding out. Empty is costing more than the £25.
+A049,A049-M005,Dez,2026-06-08 07:00,Bait order didn't turn up yesterday and the supplier isn't answering.
+A049,A049-M006,Rita,2026-06-08 07:18,"There's a tackle shop at the harbour that'll do us a box at short notice, dearer though."
+A049,A049-M007,Dez,2026-06-08 07:42,Dearer is better than twelve people and no bait. I'll go at five.
+A049,A049-M008,Rita,2026-06-08 07:54,Two customers have asked whether we do private charters for stag groups.
+A049,A049-M001,Skipper_Manny,2026-06-08 09:25,Forecast for Saturday has gone to force 6 in the afternoon. Morning trip only.
+A049,A049-M002,Rita,2026-06-08 09:32,Six bookings are afternoon. Do I move them or refund?
+A049,A049-M003,Skipper_Manny,2026-06-08 11:31,"Offer Sunday morning first, refund only if they can't do it."
+A049,A049-M004,Dez,2026-06-08 13:08,Sunday's already got eight on. Ten is the limit with the gear we carry.
+A049,A049-M009,Skipper_Manny,2026-06-08 21:00,"Only with a no-alcohol rule stated in the booking, and I mean stated in writing."
+A049,A049-M010,Rita,2026-06-08 21:12,Understood. I'll add it to the charter page rather than having the conversation each time.
+A060,A060-M001,Bryn,2026-05-09 11:45,The June wedding wants a second shooter and we're all booked that weekend.
+A060,A060-M002,Odette,2026-05-09 11:49,"There's the photographer who covered for us in March, she was good and she's local."
+A060,A060-M003,Bryn,2026-05-09 11:51,Rate? I don't want to quote the couple and then negotiate afterwards.
+A060,A060-M004,Odette,2026-05-09 11:55,She was £350 for a full day in March. Ask if that still stands.
+A060,A060-M005,Marcus_Q,2026-05-09 12:39,Gallery delivery is running at five weeks and couples are asking at three.
+A060,A060-M006,Bryn,2026-05-09 12:52,Then we say six in the contract and deliver at five. Under-promise.
+A060,A060-M008,Odette,2026-05-09 13:19,The backup drive in the studio is at 94% full.
+A060,A060-M012,Bryn,2026-05-09 15:28,I have edited four hundred photos of the same cake and I am seeing it when I close my eyes.
+A060,A060-M007,Marcus_Q,2026-05-09 15:37,Changing the contract wording for anything booked from now.
+A060,A060-M009,Marcus_Q,2026-05-11 07:41,Archive anything older than two years to the offsite copy and clear it down.
+A060,A060-M010,Odette,2026-05-11 07:51,"Doing that this week. I'll verify the offsite copy before I delete anything, obviously."
+A060,A060-M011,Bryn,2026-05-13 11:59,Verify twice. We lost a job that way in the first year and I still think about it.
+A068,A068-M001,Dasha,2026-10-08 09:25,The warehouse client wants twelve temps for Monday and it's Thursday afternoon.
+A068,A068-M002,Hal_R,2026-10-08 11:34,Twelve is a stretch. I've got seven confirmed on the books who'd take it.
+A068,A068-M005,Nour,2026-10-08 11:44,"Two placements from last month have gone quiet on timesheets, so we can't invoice."
+A068,A068-M003,Dasha,2026-10-08 12:02,"Ring the eight who did the summer contract, most of them are free again."
+A068,A068-M004,Nour,2026-10-08 12:06,I'll do that. Half of them will say yes if the shift pattern is the same as before.
+A068,A068-M006,Hal_R,2026-10-08 12:41,"Chase the site supervisor rather than the workers, he signs them."
+A068,A068-M011,Dasha,2026-10-08 14:03,Candidate turned up an hour early and has now met everyone in the building.
+A068,A068-M008,Hal_R,2026-10-08 16:09,The finance director role has had forty applications and about six are relevant.
+A068,A068-M009,Dasha,2026-10-08 19:05,That's the advert. It reads like a generalist role and we get generalists.
+A068,A068-M010,Hal_R,2026-10-08 19:20,I'll rewrite it around the two things they actually care about and repost Monday.
+A068,A068-M007,Nour,2026-10-09 18:15,Chasing him today. Third time this quarter with the same site.
+A070,A070-M001,Gil,2026-05-04 07:40,The Hawthorn Road planting is scheduled for Tuesday but the ground is waterlogged.
+A070,A070-M004,Ollie_P,2026-05-04 08:21,The mower's blade bolt sheared and I can't get the stub out.
+A070,A070-M005,Gil,2026-05-04 08:30,"Leave it, take the spare mower today and we'll drill the stub out Friday."
+A070,A070-M006,Ollie_P,2026-05-04 08:36,Spare's low on oil but I'll top it before I start.
+A070,A070-M002,Marta_S,2026-05-04 09:23,Push it a week. Planting into standing water kills the shrubs and we end up replacing them free.
+A070,A070-M003,Gil,2026-05-04 09:41,"A week it is. I'll tell the client it's for the plants' sake, which is true."
+A070,A070-M008,Marta_S,2026-05-04 21:02,Three quotes are outstanding and two of them are over a fortnight old.
+A070,A070-M009,Ollie_P,2026-05-04 21:06,"The big one I need to measure again, the plan they sent doesn't match the site."
+A070,A070-M010,Marta_S,2026-05-04 21:18,"Go Wednesday morning then, and send that quote by Thursday or we've lost it."
+A070,A070-M007,Marta_S,2026-05-05 09:51,"Buy oil on the card rather than using the drum in the shed, that drum is two years old."
+A083,A083-M001,PT_Dominik,2026-02-12 07:23,The 6am class has eighteen booked and the studio holds twelve comfortably.
+A083,A083-M004,Keisha,2026-02-12 07:24,Two of the rowers have frayed straps on the footplates.
+A083,A083-M005,Sabi,2026-02-12 08:50,"Out of service until they're replaced, those snap mid-stroke."
+A083,A083-M002,Keisha,2026-02-12 09:18,"Cap it at twelve and open a 7am. The 6am crowd would come at seven, they just book first."
+A083,A083-M003,PT_Dominik,2026-02-12 09:21,Capping from next week and I'll message the waitlist about the new slot.
+A083,A083-M006,Keisha,2026-02-12 16:21,"Tagged both. Parts are cheap, it's just remembering to order them."
+A083,A083-M007,Sabi,2026-02-12 18:13,I'll put a monthly equipment check in the calendar so it stops being a memory problem.
+A083,A083-M008,Sabi,2026-02-12 18:26,"Membership freezes are up — eleven this month, mostly January joiners."
+A083,A083-M009,PT_Dominik,2026-02-12 20:20,That's normal for February but eleven is high. Are we doing the six-week check-ins?
+A083,A083-M010,Sabi,2026-02-12 20:29,Not consistently. I'll build a list and actually do them.
+A085,A085-M001,DepotMgr_Roz,2026-04-30 05:45,Two drivers short for the early turn and the 5:52 needs covering.
+A085,A085-M002,Ceri,2026-04-30 06:03,I'll take the 5:52 if someone else does my school run at half eight.
+A085,A085-M003,DepotMgr_Roz,2026-04-30 06:15,I can cover the school run myself. Take it.
+A085,A085-M004,Wes_P,2026-04-30 08:20,I'll do the second gap but I'm on my last legal hour by two.
+A085,A085-M005,Wes_P,2026-04-30 09:34,Bus 212 is pulling to the left under braking.
+A085,A085-M006,DepotMgr_Roz,2026-04-30 09:49,Off the road until fitters look at it. Don't take it out again.
+A085,A085-M007,Wes_P,2026-04-30 11:26,Parked it in bay 6 and put the card in the window.
+A085,A085-M008,Ceri,2026-04-30 12:05,The roadworks on Pinfold Lane are adding twelve minutes and the timetable hasn't changed.
+A085,A085-M009,DepotMgr_Roz,2026-04-30 12:09,How long are the works on for?
+A085,A085-M010,Ceri,2026-04-30 14:07,Six weeks according to the sign.
+A085,A085-M011,DepotMgr_Roz,2026-04-30 14:30,Then we publish a temporary timetable rather than running late for six weeks and annoying everyone.
+A089,A089-M001,RaceDir_Colette,2026-03-19 18:40,"Entries are at 1,850 and the road closure permit is written for 2,000."
+A089,A089-M002,Padraig,2026-03-19 18:52,"Do we cap at 2,000 or apply to vary it?"
+A089,A089-M003,RaceDir_Colette,2026-03-19 19:05,Cap. Varying it this close means a new traffic management plan and there isn't time.
+A089,A089-M004,Neve,2026-03-19 19:21,I'll put the cap on the entry system tonight and add a waiting list.
+A089,A089-M005,Neve,2026-03-19 19:38,Water station four has no volunteer lead and it's the busiest one.
+A089,A089-M008,Padraig,2026-03-19 21:22,Timing company wants payment in full before race day this year.
+A089,A089-M006,Padraig,2026-03-20 07:57,"The running club offered eight people last week, ask them to take that station whole."
+A089,A089-M009,RaceDir_Colette,2026-03-20 08:46,"That's fine, entries cover it. But get the contract terms on the backup system in writing."
+A089,A089-M011,Padraig,2026-03-20 09:07,Last year's leftover finisher medals are in my garage and my wife has noticed.
+A089,A089-M007,Neve,2026-03-20 09:54,Asking tonight. A whole club on one station works better than eight strangers spread out.
+A089,A089-M010,Padraig,2026-03-21 09:02,"Asking specifically about the backup mats, yes. That's what failed in 2024."
+A090,A090-M001,Supervisor_Aggie,2026-05-26 07:31,"The office block contract has changed their access hours, we can't start before seven now."
+A090,A090-M002,Tomek,2026-05-26 08:12,That cuts an hour off the morning and we can't finish the fourth floor.
+A090,A090-M003,Supervisor_Aggie,2026-05-26 08:43,Then the fourth floor moves to the evening team and we bill it the same.
+A090,A090-M004,Rosalie,2026-05-26 08:51,"Tell the client that in writing, otherwise they'll think we've dropped it."
+A090,A090-M005,Rosalie,2026-05-26 12:03,We're going through blue roll at twice the rate we did in January.
+A090,A090-M006,Tomek,2026-05-26 14:31,New staff use it for everything. Nobody showed them the cloth system.
+A090,A090-M007,Rosalie,2026-05-26 14:43,I'll do a fifteen minute run-through with the new three on Monday.
+A090,A090-M008,Tomek,2026-05-26 19:39,Van keys went home in someone's pocket again last night.
+A090,A090-M009,Supervisor_Aggie,2026-05-27 08:46,"Key box on the wall by the door, and everyone signs in and out."
+A090,A090-M010,Tomek,2026-05-27 08:53,I'll fit it this week. It's a fiver's worth of hardware and it's cost us two mornings.
+A095,A095-M001,Juno,2026-08-14 14:50,The collab stream date clashes with the charity event we already committed to.
+A095,A095-M002,Rafiq_S,2026-08-14 15:06,"Which one moves? The charity one has a fixed date, it's tied to the campaign."
+A095,A095-M003,Juno,2026-08-14 16:15,Then the collab moves. I'll ask them for the following Tuesday.
+A095,A095-M005,Lo_Chen,2026-08-14 17:12,Editing turnaround has slipped to six days and the algorithm hates the gaps.
+A095,A095-M012,Juno,2026-08-14 17:53,My cat walked across the stream deck mid-sentence and the clip is already doing numbers.
+A095,A095-M006,Rafiq_S,2026-08-14 19:53,Is it the editing itself or the back and forth on notes?
+A095,A095-M004,Lo_Chen,2026-08-14 21:21,"Tuesdays are our worst night for concurrents, ask for the Saturday instead."
+A095,A095-M007,Lo_Chen,2026-08-14 21:57,The notes. Three rounds on a nine minute video is too many.
+A095,A095-M009,Rafiq_S,2026-08-15 07:34,Sponsor wants exclusivity in the category for six months.
+A095,A095-M010,Juno,2026-08-15 07:42,Six months is long for our size. Counter with three and a right of first refusal.
+A095,A095-M008,Rafiq_S,2026-08-15 08:26,"One round of notes, then it ships. We can fix anything serious in a pinned comment."
+A095,A095-M011,Rafiq_S,2026-08-15 09:11,Countering today with exactly that.
