@@ -1,0 +1,435 @@
+episode_id,gap_id,gap_position,candidate_id,candidate_text,candidate_sender,candidate_timestamp,feature_sender_pattern_fit,feature_timestamp_gap_fit,feature_thread_position_fit,feature_embedding_similarity
+C001,C001-G01,3,C001-G01-C3,"That's a repaint in dry weather, which gives us about three days a month here.",Ludmila_Vry,2026-03-18 07:54,0.077,0.804,0.873,0.888
+C001,C001-G01,3,C001-G01-C2,The gate intercom crackles so badly nobody can hear the caller.,Silas_Obiefune,2026-03-18 08:01,0.882,0.227,0.166,0.185
+C001,C001-G01,3,C001-G01-C4,"The tea fund is in deficit, which is a sentence I never wanted to write.",Hadrian_Vosloo,2026-03-18 07:48,0.044,0.189,0.13,0.172
+C001,C001-G01,3,C001-G01-C1,The signage for the queue system contradicts what the staff say.,Isolda_Nwamaka,2026-03-18 07:41,0.132,0.174,0.096,0.113
+C002,C002-G01,3,C002-G01-C4,Twenty-five minutes is the floor. Below that the story stops making sense.,Pim_Dalgetty,2026-05-08 10:45,0.9,0.828,0.853,0.825
+C002,C002-G01,3,C002-G01-C1,The temperature probe reads three degrees out against the calibrated one.,Xenophon_Ifeanyi,2026-05-08 12:31,0.091,0.145,0.143,0.209
+C002,C002-G01,3,C002-G01-C2,The door entry system lets anyone in who pulls hard enough.,Millicent_Abara,2026-05-08 10:58,0.056,0.131,0.142,0.203
+C002,C002-G01,3,C002-G01-C3,Two of the ceiling tiles are stained from a leak nobody reported.,Melisande_Ofoegbu,2026-05-08 12:14,0.044,0.211,0.125,0.117
+C003,C003-G01,11,C003-G01-C2,Sacks mean bruising and heat. We should refuse them rather than discount them.,Ignatz_Bell,2026-11-04 08:28,0.894,0.8,0.818,0.792
+C003,C003-G01,11,C003-G01-C4,Two of the ceiling tiles are stained from a leak nobody reported.,Melisande_Ofoegbu,2026-11-04 08:24,0.05,0.25,0.122,0.187
+C003,C003-G01,11,C003-G01-C3,The signage for the queue system contradicts what the staff say.,Isolda_Nwamaka,2026-11-04 08:27,0.094,0.167,0.09,0.218
+C003,C003-G01,11,C003-G01-C1,We should photograph the meter reading rather than writing it down.,Barnaby_Ofori,2026-11-04 08:27,0.054,0.134,0.137,0.146
+C004,C004-G01,6,C004-G01-C5,Twelve is nothing. Can we shift some of the children's stock to make shelf room?,Tobit_Anand,2026-02-12 12:27,0.836,0.823,0.817,0.772
+C004,C004-G01,6,C004-G01-C3,"The lift goes halfway and stops, so it's the hydraulics rather than a switch.",Tobit_Anand,2026-02-12 12:38,0.914,0.888,0.185,0.844
+C004,C004-G01,6,C004-G01-C2,The stock room door sticks in wet weather and has to be shouldered.,Jonas_Okafor,2026-02-12 12:35,0.113,0.186,0.088,0.169
+C004,C004-G01,6,C004-G01-C1,The card machine and the till are on the same overloaded socket.,Kunigunde_Nwabueze,2026-02-12 12:32,0.03,0.154,0.115,0.226
+C004,C004-G01,6,C004-G01-C4,The window above the door has been broken since the wind in March.,Benedict_Uzoma,2026-02-12 12:28,0.02,0.182,0.078,0.181
+C005,C005-G01,9,C005-G01-C1,Then sign off the six that are settled and hold the nut-free one for a later wave.,Marguerite_Sill,2026-09-05 13:29,0.854,0.856,0.763,0.186
+C005,C005-G01,9,C005-G01-C2,Sign off the settled flavours and let the nut-free one catch up in a later wave.,Marguerite_Sill,2026-09-05 10:50,0.83,0.254,0.74,0.844
+C005,C005-G01,9,C005-G01-C3,The drain by the bins backs up whenever it rains hard.,Fitzwilliam_Nde,2026-09-05 12:07,0.076,0.224,0.097,0.858
+C005,C005-G01,9,C005-G01-C5,We've run out of the small envelopes entirely.,Peregrine_Nwoso,2026-09-05 10:28,0.145,0.165,0.131,0.184
+C005,C005-G01,9,C005-G01-C4,The signage for the disabled parking bay has faded away entirely.,Florian_Adaora,2026-09-05 10:28,0.122,0.177,0.086,0.135
+C006,C006-G01,11,C006-G01-C5,Tired. They've done four seasons of arrive-and-drive.,Denholm_Raye,2026-06-21 09:05,0.838,0.181,0.729,0.801
+C006,C006-G01,11,C006-G01-C4,"Tired, plainly. Four seasons of arrive-and-drive will do that to any engine.",Ilinca_Fen,2026-06-21 08:26,0.207,0.942,0.868,0.898
+C006,C006-G01,11,C006-G01-C3,The stock room door sticks in wet weather and has to be shouldered.,Jonas_Okafor,2026-06-21 08:29,0.11,0.831,0.17,0.223
+C006,C006-G01,11,C006-G01-C2,The staff microwave has a door that doesn't latch properly.,Petra_Nwaeze,2026-06-20 23:08,0.065,0.195,0.062,0.186
+C006,C006-G01,11,C006-G01-C1,Our insurance certificate expires next month and it's not on anyone's list.,Rufus_Callander,2026-06-21 06:47,0.036,0.178,0.064,0.157
+C007,C007-G01,12,C007-G01-C5,Score the gauge length lightly. It's accepted practice and it stops the drift.,Bronwen_Achterberg,2026-04-28 09:42,0.814,0.883,0.829,0.772
+C007,C007-G01,12,C007-G01-C3,The staff microwave has a door that doesn't latch properly.,Petra_Nwaeze,2026-04-28 09:46,0.112,0.172,0.165,0.228
+C007,C007-G01,12,C007-G01-C1,The spare parts bin is a heap rather than anything sorted.,Norbert_Chiemeka,2026-04-28 07:58,0.168,0.15,0.076,0.218
+C007,C007-G01,12,C007-G01-C4,The drain by the bins backs up whenever it rains hard.,Fitzwilliam_Nde,2026-04-28 08:25,0.093,0.231,0.091,0.144
+C007,C007-G01,12,C007-G01-C2,The stock room door sticks in wet weather and has to be shouldered.,Jonas_Okafor,2026-04-28 08:25,0.075,0.21,0.073,0.143
+C008,C008-G01,3,C008-G01-C2,Two is right for anything over ninety minutes. I can do one half.,Ferdinand_Oduya,2026-10-15 11:59,0.852,0.833,0.743,0.716
+C008,C008-G01,3,C008-G01-C4,Theirs. Two other agencies have reported the same window.,Ferdinand_Oduya,2026-10-15 12:58,0.562,0.913,0.489,0.552
+C008,C008-G01,3,C008-G01-C3,"I'll pair you with whoever takes the second half, and they should meet beforehand.",Coord_Sunniva,2026-10-15 13:50,0.532,0.358,0.821,0.51
+C008,C008-G01,3,C008-G01-C5,Our insurance certificate expires next month and it's not on anyone's list.,Rufus_Callander,2026-10-15 11:56,0.132,0.244,0.131,0.153
+C008,C008-G01,3,C008-G01-C1,The delivery schedule assumes we open at seven and we open at eight.,Leander_Nneka,2026-10-15 12:00,0.136,0.194,0.148,0.127
+C008,C008-G02,8,C008-G02-C4,Theirs. Two other agencies have reported the same window.,Ferdinand_Oduya,2026-10-15 20:10,0.791,0.825,0.8,0.734
+C008,C008-G02,8,C008-G02-C5,"I'll pair you with whoever takes the second half, and they should meet beforehand.",Coord_Sunniva,2026-10-15 19:56,0.565,0.92,0.399,0.584
+C008,C008-G02,8,C008-G02-C1,Two is right for anything over ninety minutes. I can do one half.,Ferdinand_Oduya,2026-10-15 19:33,0.728,0.274,0.391,0.662
+C008,C008-G02,8,C008-G02-C2,The spare parts bin is a heap rather than anything sorted.,Norbert_Chiemeka,2026-10-15 19:31,0.094,0.218,0.047,0.189
+C008,C008-G02,8,C008-G02-C3,The delivery schedule assumes we open at seven and we open at eight.,Leander_Nneka,2026-10-15 20:17,0.067,0.159,0.098,0.145
+C008,C008-G03,12,C008-G03-C5,"I'll pair you with whoever takes the second half, and they should meet beforehand.",Coord_Sunniva,2026-10-16 08:49,0.082,0.772,0.745,0.757
+C008,C008-G03,12,C008-G03-C3,Two is right for anything over ninety minutes. I can do one half.,Ferdinand_Oduya,2026-10-16 10:29,0.637,0.363,0.894,0.57
+C008,C008-G03,12,C008-G03-C2,The invoice template still has last year's VAT number on it.,Halvard_Pym,2026-10-16 04:31,0.898,0.158,0.176,0.152
+C008,C008-G03,12,C008-G03-C4,Theirs. Two other agencies have reported the same window.,Ferdinand_Oduya,2026-10-16 04:31,0.079,0.306,0.423,0.557
+C008,C008-G03,12,C008-G03-C1,The stock room door sticks in wet weather and has to be shouldered.,Jonas_Okafor,2026-10-16 05:01,0.498,0.228,0.055,0.176
+C009,C009-G01,11,C009-G01-C2,Two are away until spring and one has moved. That's most of the gap.,Philippa_Onwudiwe,2026-01-22 10:04,0.766,0.799,0.76,0.831
+C009,C009-G01,11,C009-G01-C1,"A new ash stay then, and we ring on the other five until it's fitted.",Philippa_Onwudiwe,2026-01-22 09:33,0.875,0.881,0.11,0.845
+C009,C009-G01,11,C009-G01-C4,"The tea fund is in deficit, which is a sentence I never wanted to write.",Hadrian_Vosloo,2026-01-22 09:39,0.038,0.191,0.085,0.203
+C009,C009-G01,11,C009-G01-C3,The drain by the bins backs up whenever it rains hard.,Fitzwilliam_Nde,2026-01-22 09:43,0.083,0.12,0.112,0.199
+C010,C010-G01,2,C010-G01-C3,Two in one lay is the point where it stops being monitoring and starts being action.,Anselmo_Drax,2026-07-09 07:21,0.819,0.834,0.834,0.751
+C010,C010-G01,2,C010-G01-C2,"And we run at reduced capacity until they've been, not after.",Henrike_Palu,2026-07-09 07:20,0.506,0.308,0.869,0.495
+C010,C010-G01,2,C010-G01-C4,"Nine days is a complaint on every review site, and rightly.",Anselmo_Drax,2026-07-09 07:15,0.681,0.318,0.444,0.633
+C010,C010-G01,2,C010-G01-C1,We've three different forms for the same request.,Terence_Falkner,2026-07-09 07:24,0.026,0.236,0.117,0.131
+C010,C010-G02,4,C010-G02-C2,"And we run at reduced capacity until they've been, not after.",Henrike_Palu,2026-07-09 08:09,0.792,0.226,0.814,0.841
+C010,C010-G02,4,C010-G02-C4,Then he comes up on the first cabin before we open and we lose nothing.,Ops_Solveig,2026-07-09 07:52,0.722,0.79,0.418,0.588
+C010,C010-G02,4,C010-G02-C3,"Nine days is a complaint on every review site, and rightly.",Anselmo_Drax,2026-07-09 08:35,0.581,0.229,0.434,0.602
+C010,C010-G02,4,C010-G02-C1,We've three different forms for the same request.,Terence_Falkner,2026-07-09 07:49,0.18,0.869,0.101,0.179
+C010,C010-G03,9,C010-G03-C5,"Nine days is a complaint on every review site, and rightly.",Anselmo_Drax,2026-07-09 11:58,0.71,0.867,0.803,0.782
+C010,C010-G03,9,C010-G03-C3,Then he comes up on the first cabin before we open and we lose nothing.,Ops_Solveig,2026-07-09 15:17,0.503,0.3,0.928,0.638
+C010,C010-G03,9,C010-G03-C1,Two in one lay is the point where it stops being monitoring and starts being action.,Anselmo_Drax,2026-07-09 17:40,0.08,0.319,0.468,0.624
+C010,C010-G03,9,C010-G03-C4,The rota goes up on Fridays and people need it by Wednesday.,Zachariah_Ibe,2026-07-09 15:22,0.827,0.154,0.109,0.204
+C010,C010-G03,9,C010-G03-C2,We should photograph the meter reading rather than writing it down.,Barnaby_Ofori,2026-07-09 16:41,0.032,0.169,0.137,0.177
+C010,C010-G04,11,C010-G04-C3,Then he comes up on the first cabin before we open and we lose nothing.,Ops_Solveig,2026-07-09 19:36,0.853,0.796,0.799,0.748
+C010,C010-G04,11,C010-G04-C5,Two in one lay is the point where it stops being monitoring and starts being action.,Anselmo_Drax,2026-07-09 19:52,0.563,0.298,0.448,0.867
+C010,C010-G04,11,C010-G04-C1,"And we run at reduced capacity until they've been, not after.",Henrike_Palu,2026-07-09 19:59,0.753,0.348,0.398,0.559
+C010,C010-G04,11,C010-G04-C4,The window display has been the same since before Easter.,Dorian_Achuka,2026-07-09 20:02,0.108,0.123,0.064,0.174
+C010,C010-G04,11,C010-G04-C2,The door entry system lets anyone in who pulls hard enough.,Millicent_Abara,2026-07-09 20:21,0.095,0.136,0.042,0.144
+C011,C011-G01,3,C011-G01-C2,"Moved, I suspect. There's no lock on that adjuster and there should be.",Miller_Aurelio,2026-03-06 08:16,0.819,0.247,0.791,0.766
+C011,C011-G01,3,C011-G01-C3,Also the dust extraction paperwork needs looking at before anyone audits us.,Miller_Aurelio,2026-03-06 08:10,0.896,0.856,0.247,0.834
+C011,C011-G01,3,C011-G01-C4,Two of the strip lights buzz loudly whenever the compressor runs.,Aurelia_Mbanefo,2026-03-06 07:59,0.062,0.95,0.048,0.127
+C011,C011-G01,3,C011-G01-C5,The card machine and the till are on the same overloaded socket.,Kunigunde_Nwabueze,2026-03-06 08:15,0.03,0.238,0.085,0.228
+C011,C011-G01,3,C011-G01-C1,The signage for the disabled parking bay has faded away entirely.,Florian_Adaora,2026-03-06 08:02,0.049,0.202,0.07,0.182
+C012,C012-G01,3,C012-G01-C2,"Bearings, I think. There's play when I lever against the top guide.",Sawyer_Ignace,2026-08-13 07:35,0.819,0.855,0.828,0.876
+C012,C012-G01,3,C012-G01-C3,The drain by the bins backs up whenever it rains hard.,Fitzwilliam_Nde,2026-08-13 07:50,0.034,0.195,0.099,0.216
+C012,C012-G01,3,C012-G01-C1,The window display has been the same since before Easter.,Dorian_Achuka,2026-08-13 08:01,0.124,0.152,0.128,0.134
+C012,C012-G01,3,C012-G01-C4,The staff rota is being changed after publication without telling people.,Dulcinea_Chukwuma,2026-08-13 08:57,0.045,0.139,0.127,0.187
+C013,C013-G01,4,C013-G01-C2,Fix it today rather than tonight. Foxes don't wait for the maintenance list.,Boniface_Mwangi,2026-05-30 11:13,0.83,0.794,0.772,0.794
+C013,C013-G01,4,C013-G01-C4,Then the owl does three sessions a week and the kestrel covers the rest.,Falconer_Yseult,2026-05-30 11:11,0.749,0.327,0.395,0.613
+C013,C013-G01,4,C013-G01-C5,Then bring her down slowly and stop flying her in public displays until she's responding.,Cosima_Ravel,2026-05-30 10:27,0.714,0.264,0.448,0.62
+C013,C013-G01,4,C013-G01-C1,We've three different forms for the same request.,Terence_Falkner,2026-05-30 10:33,0.166,0.234,0.125,0.162
+C013,C013-G01,4,C013-G01-C3,The delivery driver has nowhere to wait out of the rain.,Valerian_Okafor,2026-05-30 11:28,0.038,0.17,0.145,0.183
+C013,C013-G02,6,C013-G02-C3,Then bring her down slowly and stop flying her in public displays until she's responding.,Cosima_Ravel,2026-05-30 12:18,0.863,0.202,0.797,0.811
+C013,C013-G02,6,C013-G02-C1,"It really isn't. Three a week, and we explain why if anyone asks.",Cosima_Ravel,2026-05-30 11:44,0.688,0.189,0.464,0.522
+C013,C013-G02,6,C013-G02-C5,Then the owl does three sessions a week and the kestrel covers the rest.,Falconer_Yseult,2026-05-30 12:05,0.555,0.336,0.419,0.536
+C013,C013-G02,6,C013-G02-C2,We're out of the blue folders and everything is going into green ones.,Bronwen_Adeoye,2026-05-30 12:08,0.059,0.94,0.092,0.238
+C013,C013-G02,6,C013-G02-C4,We've three different forms for the same request.,Terence_Falkner,2026-05-30 12:35,0.059,0.813,0.086,0.159
+C013,C013-G03,9,C013-G03-C3,Then the owl does three sessions a week and the kestrel covers the rest.,Falconer_Yseult,2026-05-30 18:58,0.513,0.862,0.818,0.828
+C013,C013-G03,9,C013-G03-C1,"It really isn't. Three a week, and we explain why if anyone asks.",Cosima_Ravel,2026-05-30 19:01,0.042,0.363,0.857,0.516
+C013,C013-G03,9,C013-G03-C2,Fix it today rather than tonight. Foxes don't wait for the maintenance list.,Boniface_Mwangi,2026-05-30 18:58,0.168,0.335,0.487,0.51
+C013,C013-G03,9,C013-G03-C4,We've run out of the small envelopes entirely.,Peregrine_Nwoso,2026-05-30 18:56,0.746,0.242,0.175,0.229
+C013,C013-G03,9,C013-G03-C5,The spare parts bin is a heap rather than anything sorted.,Norbert_Chiemeka,2026-05-30 18:54,0.847,0.172,0.166,0.163
+C013,C013-G04,11,C013-G04-C2,"It really isn't. Three a week, and we explain why if anyone asks.",Cosima_Ravel,2026-05-30 19:17,0.828,0.852,0.836,0.81
+C013,C013-G04,11,C013-G04-C5,Fix it today rather than tonight. Foxes don't wait for the maintenance list.,Boniface_Mwangi,2026-05-31 04:18,0.714,0.298,0.449,0.623
+C013,C013-G04,11,C013-G04-C3,Then bring her down slowly and stop flying her in public displays until she's responding.,Cosima_Ravel,2026-05-30 23:15,0.699,0.328,0.429,0.547
+C013,C013-G04,11,C013-G04-C1,The delivery schedule assumes we open at seven and we open at eight.,Leander_Nneka,2026-05-31 01:55,0.161,0.108,0.151,0.219
+C013,C013-G04,11,C013-G04-C4,Somebody has changed the alarm code without telling the weekend staff.,Elspeth_Ruan,2026-05-31 03:54,0.097,0.156,0.048,0.164
+C014,C014-G01,5,C014-G01-C5,"Eight, which is the same number as the safe group size — so the equipment and the group size are one conversation, not two. We physically cannot run fourteen.",Tiernan_Ubadike,2026-06-27 08:34,0.839,0.162,0.836,0.757
+C014,C014-G01,5,C014-G01-C2,"Eight usable boards, and two more are close to going the same way.",Tiernan_Ubadike,2026-06-27 08:25,0.857,0.16,0.182,0.846
+C014,C014-G01,5,C014-G01-C4,Somebody has laminated the wrong version of the procedure.,Beatrice_Ojukwu,2026-06-27 08:33,0.139,0.874,0.182,0.21
+C014,C014-G01,5,C014-G01-C1,The window above the door has been broken since the wind in March.,Benedict_Uzoma,2026-06-27 09:00,0.066,0.84,0.118,0.222
+C014,C014-G01,5,C014-G01-C3,Nobody has signed the cleaning rota for a fortnight.,Wilhelmina_Crace,2026-06-27 08:20,0.121,0.217,0.072,0.209
+C015,C015-G01,6,C015-G01-C3,Butt strap joined at the buckle is standard and nobody would call it a compromise.,Wilhelmina_Tice,2026-02-25 17:59,0.909,0.808,0.778,0.851
+C015,C015-G01,6,C015-G01-C4,A join at the buckle reads as a design choice rather than a compromise.,Odalys_Brennt,2026-02-25 15:21,0.98,0.959,0.328,0.396
+C015,C015-G01,6,C015-G01-C5,The shutters are being left half down overnight.,Venetia_Chukwunonso,2026-02-25 17:41,0.133,0.326,0.18,0.904
+C015,C015-G01,6,C015-G01-C1,Somebody keeps unplugging the water cooler to charge a phone.,Delphine_Oyo,2026-02-25 17:28,0.125,0.198,0.962,0.252
+C015,C015-G01,6,C015-G01-C2,"Three millimetre hide is not what we approved, so it goes back to them.",Wilhelmina_Tice,2026-02-25 18:04,0.314,0.341,0.193,0.416
+C016,C016-G01,7,C016-G01-C3,"Writing a second show is forty hours of work, realistically.",Alard_Munkhbat,2026-10-09 07:56,0.923,0.837,0.739,0.179
+C016,C016-G01,7,C016-G01-C2,"We've had four complaints about the hold music, which is fair enough.",Perpetua_Snell,2026-10-09 04:42,0.118,0.201,0.129,0.807
+C016,C016-G01,7,C016-G01-C4,The window display has been the same since before Easter.,Dorian_Achuka,2026-10-09 06:04,0.082,0.123,0.158,0.223
+C016,C016-G01,7,C016-G01-C1,The window above the door has been broken since the wind in March.,Benedict_Uzoma,2026-10-09 00:56,0.081,0.157,0.044,0.148
+C017,C017-G01,9,C017-G01-C3,Unload that bay today. Bent uprights fail without warning.,Emeric_Vaszary,2026-07-16 15:19,0.827,0.802,0.832,0.798
+C017,C017-G01,9,C017-G01-C5,"Unload that bay before anything else goes on it, today rather than tomorrow.",Emeric_Vaszary,2026-07-16 17:06,0.889,0.165,0.843,0.917
+C017,C017-G01,9,C017-G01-C4,The spare parts bin is a heap rather than anything sorted.,Norbert_Chiemeka,2026-07-16 16:11,0.121,0.133,0.155,0.213
+C017,C017-G01,9,C017-G01-C6,The floor tape marking the walkway has worn away entirely.,Ludmila_Chukwu,2026-07-16 16:11,0.148,0.25,0.071,0.114
+C017,C017-G01,9,C017-G01-C2,Two of the strip lights buzz loudly whenever the compressor runs.,Aurelia_Mbanefo,2026-07-16 15:46,0.048,0.229,0.076,0.186
+C017,C017-G01,9,C017-G01-C1,The window cleaner hasn't been since the contract lapsed.,Corvin_Nkechinyere,2026-07-16 14:42,0.08,0.191,0.097,0.15
+C018,C018-G01,8,C018-G01-C4,And put the price difference in writing at the same time.,Lazslo_Winterbourne,2026-09-11 19:58,0.798,0.769,0.029,0.782
+C018,C018-G01,8,C018-G01-C5,And the price difference goes to them in writing at the same time.,Pyro_Casimir,2026-09-11 20:07,0.2,0.951,0.091,0.898
+C018,C018-G01,8,C018-G01-C1,Somebody has changed the alarm code without telling the weekend staff.,Elspeth_Ruan,2026-09-11 20:50,0.159,0.195,0.778,0.164
+C018,C018-G01,8,C018-G01-C2,The delivery schedule assumes we open at seven and we open at eight.,Leander_Nneka,2026-09-11 20:01,0.132,0.18,0.833,0.116
+C018,C018-G01,8,C018-G01-C3,The back door bell doesn't ring in the office.,Lambert_Obiakor,2026-09-11 19:53,0.072,0.223,0.137,0.217
+C019,C019-G01,4,C019-G01-C2,Then we scrub and rebook. The passengers will be disappointed for a day and alive for years.,Sunniva_Achampong,2026-05-05 08:17,0.854,0.327,0.831,0.846
+C019,C019-G01,4,C019-G01-C1,Apologise properly and offer to pay for the ruts. That relationship is worth more than the cost.,Sunniva_Achampong,2026-05-05 08:12,0.473,0.315,0.483,0.849
+C019,C019-G01,4,C019-G01-C3,"Book it in the gap after the bank holiday, that's our quietest fortnight.",Bartholomew_Eze,2026-05-05 08:10,0.737,0.197,0.384,0.579
+C019,C019-G01,4,C019-G01-C4,We've no spare till rolls left in the drawer at all.,Ingrid_Chukwueke,2026-05-05 08:07,0.02,0.882,0.172,0.186
+C019,C019-G01,4,C019-G01-C5,We should photograph the meter reading rather than writing it down.,Barnaby_Ofori,2026-05-05 08:16,0.145,0.171,0.102,0.115
+C019,C019-G02,10,C019-G02-C3,Apologise properly and offer to pay for the ruts. That relationship is worth more than the cost.,Sunniva_Achampong,2026-05-05 10:05,0.791,0.845,0.776,0.735
+C019,C019-G02,10,C019-G02-C5,"Book it in the gap after the bank holiday, that's our quietest fortnight.",Bartholomew_Eze,2026-05-05 10:07,0.524,0.885,0.443,0.528
+C019,C019-G02,10,C019-G02-C2,Then we scrub and rebook. The passengers will be disappointed for a day and alive for years.,Sunniva_Achampong,2026-05-05 09:56,0.783,0.276,0.48,0.527
+C019,C019-G02,10,C019-G02-C1,The signage for the queue system contradicts what the staff say.,Isolda_Nwamaka,2026-05-05 09:25,0.116,0.169,0.066,0.225
+C019,C019-G02,10,C019-G02-C4,We should photograph the meter reading rather than writing it down.,Barnaby_Ofori,2026-05-05 10:53,0.12,0.217,0.039,0.166
+C019,C019-G03,12,C019-G03-C3,"Book it in the gap after the bank holiday, that's our quietest fortnight.",Bartholomew_Eze,2026-05-05 13:54,0.793,0.749,0.854,0.827
+C019,C019-G03,12,C019-G03-C1,Apologise properly and offer to pay for the ruts. That relationship is worth more than the cost.,Sunniva_Achampong,2026-05-05 14:49,0.708,0.345,0.475,0.615
+C019,C019-G03,12,C019-G03-C5,Then we scrub and rebook. The passengers will be disappointed for a day and alive for years.,Sunniva_Achampong,2026-05-05 13:51,0.504,0.319,0.423,0.881
+C019,C019-G03,12,C019-G03-C4,Somebody has changed the alarm code without telling the weekend staff.,Elspeth_Ruan,2026-05-05 12:10,0.114,0.248,0.126,0.142
+C019,C019-G03,12,C019-G03-C2,The stock room door sticks in wet weather and has to be shouldered.,Jonas_Okafor,2026-05-05 11:30,0.142,0.22,0.12,0.139
+C020,C020-G01,8,C020-G01-C2,"We can send it, but the incompleteness has to go in the agreement, not be quietly omitted.",Curator_Adaora,2026-11-19 17:58,0.887,0.787,0.343,0.81
+C020,C020-G01,8,C020-G01-C5,Eleven accessions below threshold is more field space than we've allocated.,Curator_Adaora,2026-11-19 17:28,0.96,0.353,0.783,0.412
+C020,C020-G01,8,C020-G01-C4,Two of the aprons have gone missing from the laundry bag.,Emmeline_Kachi,2026-11-19 17:01,0.134,0.288,0.98,0.363
+C020,C020-G01,8,C020-G01-C1,We can send it as long as the gaps are stated in the agreement itself.,Kristoffer_Baena,2026-11-19 17:25,0.206,0.98,0.181,0.377
+C020,C020-G01,8,C020-G01-C3,We're out of the blue folders and everything is going into green ones.,Bronwen_Adeoye,2026-11-19 17:54,0.169,0.346,0.281,0.898
+C021,C021-G01,7,C021-G01-C2,That'll be it. Get it back on and the new growth should come through clean.,Zbigniew_Marr,2026-03-30 09:45,0.892,0.357,0.78,0.789
+C021,C021-G01,7,C021-G01-C5,Better than promising and failing in the one month they'd remember.,Zbigniew_Marr,2026-03-30 08:57,0.761,0.834,0.431,0.537
+C021,C021-G01,7,C021-G01-C3,"Then we quote a December price that reflects that, and let them decide.",Henrietta_Boakye,2026-03-30 09:12,0.775,0.156,0.479,0.646
+C021,C021-G01,7,C021-G01-C4,The stock cages are being pushed two at a time down the ramp.,Zelda_Chikodiri,2026-03-30 11:23,0.062,0.306,0.127,0.15
+C021,C021-G01,7,C021-G01-C1,The staff rota is being changed after publication without telling people.,Dulcinea_Chukwuma,2026-03-30 10:39,0.09,0.164,0.068,0.193
+C021,C021-G02,10,C021-G02-C5,"Then we quote a December price that reflects that, and let them decide.",Henrietta_Boakye,2026-03-30 20:34,0.803,0.748,0.098,0.818
+C021,C021-G02,10,C021-G02-C3,That'll be it. Get it back on and the new growth should come through clean.,Zbigniew_Marr,2026-03-30 19:28,0.662,0.299,0.862,0.548
+C021,C021-G02,10,C021-G02-C4,Better than promising and failing in the one month they'd remember.,Zbigniew_Marr,2026-03-30 19:18,0.508,0.261,0.815,0.591
+C021,C021-G02,10,C021-G02-C1,The fire door on the corridor has been wedged with a bin.,Amadeus_Nwosu,2026-03-30 19:31,0.139,0.109,0.421,0.246
+C021,C021-G02,10,C021-G02-C2,The stock cages are being pushed two at a time down the ramp.,Zelda_Chikodiri,2026-03-30 19:15,0.048,0.235,0.158,0.197
+C021,C021-G03,12,C021-G03-C3,Better than promising and failing in the one month they'd remember.,Zbigniew_Marr,2026-03-30 21:44,0.821,0.766,0.504,0.844
+C021,C021-G03,12,C021-G03-C5,That'll be it. Get it back on and the new growth should come through clean.,Zbigniew_Marr,2026-03-31 02:16,0.863,0.27,0.841,0.618
+C021,C021-G03,12,C021-G03-C2,"Then we quote a December price that reflects that, and let them decide.",Henrietta_Boakye,2026-03-31 04:53,0.494,0.307,0.143,0.615
+C021,C021-G03,12,C021-G03-C4,The delivery driver has nowhere to wait out of the rain.,Valerian_Okafor,2026-03-31 07:11,0.053,0.134,0.802,0.185
+C021,C021-G03,12,C021-G03-C1,We're still paying for a phone line into the old unit.,Ferdinand_Whipp,2026-03-30 22:48,0.08,0.134,0.133,0.24
+C022,C022-G01,2,C022-G01-C1,"Filter saturation, nine times out of ten. When were they last changed?",Ademola_Steen,2026-01-14 08:51,0.863,0.359,0.779,0.789
+C022,C022-G01,2,C022-G01-C2,There's a leak somewhere then. Topping it up daily is not a fix.,Cordelia_Vasquez,2026-01-14 08:47,0.696,0.866,0.512,0.579
+C022,C022-G01,2,C022-G01-C5,Change them and re-clean the four coats currently on the rail before anyone collects them.,Cordelia_Vasquez,2026-01-14 09:01,0.486,0.189,0.809,0.537
+C022,C022-G01,2,C022-G01-C4,Two of the aprons have gone missing from the laundry bag.,Emmeline_Kachi,2026-01-14 08:51,0.158,0.318,0.15,0.213
+C022,C022-G01,2,C022-G01-C3,The stock room door sticks in wet weather and has to be shouldered.,Jonas_Okafor,2026-01-14 08:36,0.095,0.163,0.093,0.113
+C022,C022-G02,7,C022-G02-C3,Change them and re-clean the four coats currently on the rail before anyone collects them.,Cordelia_Vasquez,2026-01-14 11:02,0.502,0.861,0.822,0.824
+C022,C022-G02,7,C022-G02-C2,There's a leak somewhere then. Topping it up daily is not a fix.,Cordelia_Vasquez,2026-01-14 11:24,0.906,0.384,0.402,0.626
+C022,C022-G02,7,C022-G02-C1,"Filter saturation, nine times out of ten. When were they last changed?",Ademola_Steen,2026-01-14 11:06,0.141,0.286,0.839,0.576
+C022,C022-G02,7,C022-G02-C4,Nobody checked the generator this month and it's a monthly job.,Gustave_Onwuka,2026-01-14 11:17,0.712,0.113,0.16,0.202
+C022,C022-G02,7,C022-G02-C5,The stock room door sticks in wet weather and has to be shouldered.,Jonas_Okafor,2026-01-14 11:27,0.066,0.242,0.078,0.171
+C022,C022-G02,7,C022-G02-C6,The stairwell handrail is loose at the top fixing.,Kenelm_Obiajulu,2026-01-14 11:23,0.086,0.223,0.054,0.126
+C022,C022-G03,10,C022-G03-C3,There's a leak somewhere then. Topping it up daily is not a fix.,Cordelia_Vasquez,2026-01-14 13:18,0.849,0.886,0.814,0.828
+C022,C022-G03,10,C022-G03-C2,"Filter saturation, nine times out of ten. When were they last changed?",Ademola_Steen,2026-01-14 15:15,0.488,0.315,0.378,0.62
+C022,C022-G03,10,C022-G03-C1,Change them and re-clean the four coats currently on the rail before anyone collects them.,Cordelia_Vasquez,2026-01-14 13:11,0.699,0.251,0.413,0.135
+C022,C022-G03,10,C022-G03-C5,The training video still references a machine we sold.,Quillon_Adaeke,2026-01-14 14:26,0.163,0.192,0.098,0.817
+C022,C022-G03,10,C022-G03-C4,The staff microwave has a door that doesn't latch properly.,Petra_Nwaeze,2026-01-14 13:38,0.134,0.111,0.129,0.248
+C023,C023-G01,9,C023-G01-C3,Mileage is fairer but nobody logs it honestly.,Fionnuala_Okpara,2026-04-12 09:16,0.837,0.831,0.744,0.83
+C023,C023-G01,9,C023-G01-C1,If it's the room's humidity swinging then the instrument itself is perfectly fine.,Fionnuala_Okpara,2026-04-11 16:09,0.902,0.808,0.165,0.862
+C023,C023-G01,9,C023-G01-C5,The back door bell doesn't ring in the office.,Lambert_Obiakor,2026-04-11 09:00,0.133,0.205,0.116,0.145
+C023,C023-G01,9,C023-G01-C2,Nobody has signed the cleaning rota for a fortnight.,Wilhelmina_Crace,2026-04-11 23:25,0.074,0.156,0.154,0.173
+C023,C023-G01,9,C023-G01-C4,The signage for the disabled parking bay has faded away entirely.,Florian_Adaora,2026-04-11 00:12,0.076,0.206,0.083,0.154
+C024,C024-G01,2,C024-G01-C1,Vehicle to the top car park or are we walking in from the valley?,Saoirse_Adeyemo,2026-12-05 20:40,0.845,0.83,0.075,0.766
+C024,C024-G01,2,C024-G01-C2,"Intermittent, and always when it's wet.",Saoirse_Adeyemo,2026-12-05 20:40,0.665,0.278,0.817,0.597
+C024,C024-G01,2,C024-G01-C3,"Open five places to the neighbouring team, they did the same for us in March.",Saoirse_Adeyemo,2026-12-05 20:36,0.949,0.282,0.444,0.563
+C024,C024-G01,2,C024-G01-C5,We're out of the blue folders and everything is going into green ones.,Bronwen_Adeoye,2026-12-05 20:28,0.164,0.187,0.4,0.135
+C024,C024-G01,2,C024-G01-C4,The water in the upstairs sink runs brown for the first minute.,Adelaide_Nkolika,2026-12-05 20:04,0.044,0.161,0.033,0.19
+C024,C024-G02,5,C024-G02-C2,"Open five places to the neighbouring team, they did the same for us in March.",Saoirse_Adeyemo,2026-12-05 22:23,0.881,0.878,0.752,0.86
+C024,C024-G02,5,C024-G02-C4,"Intermittent, and always when it's wet.",Saoirse_Adeyemo,2026-12-05 22:41,0.61,0.928,0.432,0.6
+C024,C024-G02,5,C024-G02-C5,Vehicle to the top car park or are we walking in from the valley?,Saoirse_Adeyemo,2026-12-05 22:28,0.657,0.279,0.484,0.609
+C024,C024-G02,5,C024-G02-C3,The card machine and the till are on the same overloaded socket.,Kunigunde_Nwabueze,2026-12-05 22:25,0.106,0.218,0.043,0.24
+C024,C024-G02,5,C024-G02-C1,We're out of the blue folders and everything is going into green ones.,Bronwen_Adeoye,2026-12-05 22:22,0.031,0.117,0.096,0.135
+C024,C024-G03,11,C024-G03-C3,"Intermittent, and always when it's wet.",Saoirse_Adeyemo,2026-12-06 09:49,0.854,0.786,0.154,0.852
+C024,C024-G03,11,C024-G03-C4,Vehicle to the top car park or are we walking in from the valley?,Saoirse_Adeyemo,2026-12-06 09:29,0.907,0.328,0.492,0.664
+C024,C024-G03,11,C024-G03-C2,"Open five places to the neighbouring team, they did the same for us in March.",Saoirse_Adeyemo,2026-12-06 09:21,0.654,0.286,0.074,0.614
+C024,C024-G03,11,C024-G03-C5,The training records spreadsheet has two versions and they disagree.,Lucian_Obasi,2026-12-06 10:05,0.02,0.16,0.728,0.183
+C024,C024-G03,11,C024-G03-C1,Our opening hours on the door and online don't match.,Rosalie_Nkemdi,2026-12-06 10:11,0.117,0.112,0.461,0.206
+C025,C025-G01,3,C025-G01-C4,Not yet. I've reported it and I'm telling every inbound until it is.,Pilot_Cormac,2026-08-22 06:34,0.809,0.784,0.805,0.859
+C025,C025-G01,3,C025-G01-C3,Agreed. Get the hydrographer to run it before we commit to any sailing plan.,Nkosana_Reilly,2026-08-22 06:27,0.517,0.879,0.435,0.535
+C025,C025-G01,3,C025-G01-C2,Impeller or a blocked intake? Both are common after a summer of weed.,Ingeborg_Lyle,2026-08-22 06:37,0.673,0.325,0.496,0.544
+C025,C025-G01,3,C025-G01-C5,We're double handling every pallet because of where they get dropped.,Percival_Nsofor,2026-08-22 06:39,0.114,0.249,0.093,0.232
+C025,C025-G01,3,C025-G01-C1,"The back office window doesn't lock, it only looks like it does.",Demetrius_Ogbu,2026-08-22 06:31,0.079,0.131,0.092,0.176
+C025,C025-G02,9,C025-G02-C1,Agreed. Get the hydrographer to run it before we commit to any sailing plan.,Nkosana_Reilly,2026-08-22 15:22,0.838,0.902,0.818,0.831
+C025,C025-G02,9,C025-G02-C3,Impeller or a blocked intake? Both are common after a summer of weed.,Ingeborg_Lyle,2026-08-22 18:02,0.949,0.31,0.502,0.576
+C025,C025-G02,9,C025-G02-C4,Not yet. I've reported it and I'm telling every inbound until it is.,Pilot_Cormac,2026-08-22 16:10,0.717,0.339,0.415,0.538
+C025,C025-G02,9,C025-G02-C2,We're double handling every pallet because of where they get dropped.,Percival_Nsofor,2026-08-22 14:49,0.168,0.176,0.177,0.138
+C025,C025-G03,12,C025-G03-C3,Impeller or a blocked intake? Both are common after a summer of weed.,Ingeborg_Lyle,2026-08-23 15:32,0.903,0.784,0.747,0.812
+C025,C025-G03,12,C025-G03-C1,Not yet. I've reported it and I'm telling every inbound until it is.,Pilot_Cormac,2026-08-23 15:07,0.508,0.92,0.371,0.595
+C025,C025-G03,12,C025-G03-C4,Agreed. Get the hydrographer to run it before we commit to any sailing plan.,Nkosana_Reilly,2026-08-23 10:19,0.715,0.316,0.419,0.613
+C025,C025-G03,12,C025-G03-C2,The chiller has been running warm since the door seal split.,Yusuf_Nwabuisi,2026-08-23 05:13,0.075,0.254,0.14,0.223
+C026,C026-G01,11,C026-G01-C1,Cheaper over five years and considerably safer in the meantime.,Marisela_Toth,2026-02-07 11:08,0.829,0.794,0.818,0.822
+C026,C026-G01,11,C026-G01-C5,"Nothing goes on that rigging point until the test is signed off, rehearsal included.",Marisela_Toth,2026-02-07 17:56,0.908,0.89,0.204,0.831
+C026,C026-G01,11,C026-G01-C2,The stairwell handrail is loose at the top fixing.,Kenelm_Obiajulu,2026-02-08 14:26,0.039,0.238,0.119,0.203
+C026,C026-G01,11,C026-G01-C4,The stock rotation is not happening at all on the top shelf.,Nikolai_Adaeze,2026-02-08 00:11,0.081,0.186,0.072,0.169
+C026,C026-G01,11,C026-G01-C3,Somebody has written on the whiteboard in permanent marker.,Griselda_Ashby,2026-02-08 10:38,0.087,0.177,0.108,0.117
+C027,C027-G01,9,C027-G01-C4,Changed how? That affects every shrinkage figure we hold.,Anneliese_Dumont,2026-06-03 19:48,0.897,0.766,0.78,0.759
+C027,C027-G01,9,C027-G01-C2,Slowing the cooling ramp should clear the crazing on the upper shelves.,Anneliese_Dumont,2026-06-03 19:36,0.901,0.891,0.17,0.841
+C027,C027-G01,9,C027-G01-C3,The window above the door has been broken since the wind in March.,Benedict_Uzoma,2026-06-03 19:39,0.08,0.188,0.119,0.204
+C027,C027-G01,9,C027-G01-C5,"The tea fund is in deficit, which is a sentence I never wanted to write.",Hadrian_Vosloo,2026-06-03 19:37,0.073,0.177,0.093,0.178
+C027,C027-G01,9,C027-G01-C1,The bin store light has been out since the clocks changed.,Montague_Ezeh,2026-06-03 19:52,0.057,0.169,0.061,0.155
+C028,C028-G01,2,C028-G01-C1,Autohinting or the manual work? The roman came out fine with the same process.,Jasper_Oyelowo,2026-09-24 10:40,0.793,0.853,0.067,0.794
+C028,C028-G01,2,C028-G01-C4,Is that the autohinter or the manual work? The roman came through fine.,Jasper_Oyelowo,2026-09-24 11:45,0.879,0.292,0.798,0.828
+C028,C028-G01,2,C028-G01-C5,The tannoy microphone picks up everything said near it.,Alastair_Nwaobi,2026-09-24 10:58,0.078,0.174,0.811,0.165
+C028,C028-G01,2,C028-G01-C3,Two of the strip lights buzz loudly whenever the compressor runs.,Aurelia_Mbanefo,2026-09-24 11:19,0.107,0.168,0.069,0.169
+C028,C028-G01,2,C028-G01-C2,We've three different forms for the same request.,Terence_Falkner,2026-09-24 11:47,0.048,0.178,0.12,0.163
+C029,C029-G01,8,C029-G01-C4,"Check the tup guides before you touch anything else, they wear first.",Morwenna_Diallo,2026-03-12 11:28,0.777,0.164,0.759,0.776
+C029,C029-G01,8,C029-G01-C3,"Check the tup guides before anything else, they're always what wears first.",Smith_Aurelian,2026-03-12 11:56,0.256,0.869,0.879,0.891
+C029,C029-G01,8,C029-G01-C2,We've no record of who has the master key.,Oriana_Fitzwell,2026-03-12 11:18,0.031,0.92,0.081,0.147
+C029,C029-G01,8,C029-G01-C1,The customer wifi password is written on the window in marker.,Xanthippe_Nnaemeka,2026-03-12 11:18,0.111,0.189,0.041,0.2
+C030,C030-G01,11,C030-G01-C3,"Reprint before the festival batch ships, people genuinely follow those.",Rasheeda_Lindqvist,2026-05-21 17:33,0.865,0.854,0.744,0.843
+C030,C030-G01,11,C030-G01-C5,"The coating change is bleeding into the white panels, which is where it shows.",Rasheeda_Lindqvist,2026-05-21 17:31,0.902,0.825,0.186,0.822
+C030,C030-G01,11,C030-G01-C4,We've no record of who has the master key.,Oriana_Fitzwell,2026-05-22 00:44,0.023,0.264,0.183,0.206
+C030,C030-G01,11,C030-G01-C2,The alarm engineer came and nobody knew he was coming.,Maximilian_Osho,2026-05-21 17:58,0.043,0.24,0.065,0.25
+C030,C030-G01,11,C030-G01-C1,We only have one copy of the key for the meter cupboard.,Barnaby_Selwyn,2026-05-21 17:40,0.104,0.189,0.11,0.107
+C031,C031-G01,3,C031-G01-C1,"Retire them on the date, not when they look worn. That's the whole point of the date.",Priyasha_Amadou,2026-04-16 10:25,0.881,0.895,0.49,0.787
+C031,C031-G01,3,C031-G01-C3,Put that in the method statement so it's a condition rather than a request.,Benicio_Faraday,2026-04-16 10:08,0.74,0.31,0.357,0.562
+C031,C031-G01,3,C031-G01-C2,That's a variation and it needs masks and a different cleaning spec.,Priyasha_Amadou,2026-04-16 10:15,0.5,0.275,0.055,0.886
+C031,C031-G01,3,C031-G01-C5,The card machine and the till are on the same overloaded socket.,Kunigunde_Nwabueze,2026-04-16 10:18,0.087,0.235,0.75,0.16
+C031,C031-G01,3,C031-G01-C4,The heater in the office trips the breaker when the kettle is on.,Desmond_Ifeoma,2026-04-16 10:09,0.106,0.164,0.077,0.192
+C031,C031-G02,8,C031-G02-C4,That's a variation and it needs masks and a different cleaning spec.,Priyasha_Amadou,2026-04-16 15:55,0.767,0.878,0.721,0.545
+C031,C031-G02,8,C031-G02-C2,Put that in the method statement so it's a condition rather than a request.,Benicio_Faraday,2026-04-16 16:13,0.784,0.327,0.48,0.215
+C031,C031-G02,8,C031-G02-C1,"Agreed. I've told the client it's a delay caused by their paperwork, not our scheduling.",Supervisor_Ignatius,2026-04-16 19:27,0.714,0.376,0.486,0.216
+C031,C031-G02,8,C031-G02-C5,The photocopier is jamming on anything heavier than eighty gram paper.,Caspian_Mbatha,2026-04-16 18:01,0.046,0.193,0.105,0.863
+C031,C031-G02,8,C031-G02-C3,The card machine and the till are on the same overloaded socket.,Kunigunde_Nwabueze,2026-04-16 20:18,0.095,0.242,0.139,0.546
+C031,C031-G03,10,C031-G03-C1,Put that in the method statement so it's a condition rather than a request.,Benicio_Faraday,2026-04-16 20:45,0.91,0.837,0.071,0.792
+C031,C031-G03,10,C031-G03-C5,"Agreed. I've told the client it's a delay caused by their paperwork, not our scheduling.",Supervisor_Ignatius,2026-04-16 22:37,0.555,0.968,0.803,0.598
+C031,C031-G03,10,C031-G03-C2,"Retire them on the date, not when they look worn. That's the whole point of the date.",Priyasha_Amadou,2026-04-17 03:10,0.722,0.267,0.425,0.558
+C031,C031-G03,10,C031-G03-C4,Half the extension numbers on the list are wrong.,Marcellus_Dovey,2026-04-16 22:39,0.078,0.189,0.438,0.125
+C031,C031-G03,10,C031-G03-C3,Two of the trolleys' brakes don't hold on the slope.,Winifred_Obiora,2026-04-16 21:50,0.147,0.212,0.062,0.194
+C031,C031-G04,12,C031-G04-C1,"Agreed. I've told the client it's a delay caused by their paperwork, not our scheduling.",Supervisor_Ignatius,2026-04-17 11:02,0.815,0.873,0.819,0.817
+C031,C031-G04,12,C031-G04-C5,That's a variation and it needs masks and a different cleaning spec.,Priyasha_Amadou,2026-04-17 11:02,0.707,0.378,0.428,0.599
+C031,C031-G04,12,C031-G04-C2,"Retire them on the date, not when they look worn. That's the whole point of the date.",Priyasha_Amadou,2026-04-17 10:06,0.647,0.379,0.405,0.527
+C031,C031-G04,12,C031-G04-C4,The visitor book hasn't been signed by anyone since Tuesday.,Wilhelmine_Azu,2026-04-17 09:28,0.101,0.231,0.12,0.252
+C031,C031-G04,12,C031-G04-C3,The signage for the disabled parking bay has faded away entirely.,Florian_Adaora,2026-04-17 10:44,0.087,0.134,0.131,0.217
+C032,C032-G01,2,C032-G01-C4,Soft as in over-ripe or soft as in rotten?,Ottavia_Nnadi,2026-10-01 08:19,0.058,0.776,0.826,0.824
+C032,C032-G01,2,C032-G01-C5,Over-ripe soft or rotten soft? It changes entirely what we can do with them.,Ottavia_Nnadi,2026-10-01 08:57,0.911,0.298,0.709,0.853
+C032,C032-G01,2,C032-G01-C3,The door entry system lets anyone in who pulls hard enough.,Millicent_Abara,2026-10-01 08:21,0.963,0.146,0.142,0.197
+C032,C032-G01,2,C032-G01-C1,The stock room door sticks in wet weather and has to be shouldered.,Jonas_Okafor,2026-10-01 08:56,0.111,0.228,0.087,0.186
+C032,C032-G01,2,C032-G01-C2,The cleaning contract hasn't been reviewed in five years.,Katarina_Uche,2026-10-01 09:03,0.091,0.153,0.154,0.213
+C033,C033-G01,2,C033-G01-C3,Evaporation rate or brine density coming in?,Yolanda_Achebe,2026-07-02 08:09,0.785,0.801,0.805,0.811
+C033,C033-G01,2,C033-G01-C1,Then we either go back to the old point or slow the pan to suit the new feed.,Kasimir_Tunde,2026-07-02 08:14,0.56,0.277,0.856,0.509
+C033,C033-G01,2,C033-G01-C5,"That's a contamination route. It needs lifting properly, not grouting over.",Yolanda_Achebe,2026-07-02 08:16,0.68,0.242,0.381,0.548
+C033,C033-G01,2,C033-G01-C4,The training records spreadsheet has two versions and they disagree.,Lucian_Obasi,2026-07-02 08:14,0.143,0.237,0.149,0.152
+C033,C033-G01,2,C033-G01-C2,The waste contractor invoices monthly and collects fortnightly.,Placidus_Obidike,2026-07-02 08:01,0.096,0.176,0.099,0.165
+C033,C033-G02,5,C033-G02-C4,Then we either go back to the old point or slow the pan to suit the new feed.,Kasimir_Tunde,2026-07-02 08:31,0.796,0.257,0.87,0.832
+C033,C033-G02,5,C033-G02-C1,Evaporation rate or brine density coming in?,Yolanda_Achebe,2026-07-02 09:03,0.489,0.758,0.918,0.529
+C033,C033-G02,5,C033-G02-C2,"That's a contamination route. It needs lifting properly, not grouting over.",Yolanda_Achebe,2026-07-02 09:41,0.955,0.289,0.489,0.616
+C033,C033-G02,5,C033-G02-C5,The waste contractor invoices monthly and collects fortnightly.,Placidus_Obidike,2026-07-02 09:42,0.067,0.212,0.106,0.163
+C033,C033-G02,5,C033-G02-C3,The drain by the bins backs up whenever it rains hard.,Fitzwilliam_Nde,2026-07-02 08:37,0.097,0.123,0.055,0.128
+C033,C033-G03,9,C033-G03-C3,"That's a contamination route. It needs lifting properly, not grouting over.",Yolanda_Achebe,2026-07-02 12:37,0.855,0.772,0.784,0.845
+C033,C033-G03,9,C033-G03-C4,Evaporation rate or brine density coming in?,Yolanda_Achebe,2026-07-02 12:47,0.927,0.29,0.452,0.528
+C033,C033-G03,9,C033-G03-C5,Then we either go back to the old point or slow the pan to suit the new feed.,Kasimir_Tunde,2026-07-02 12:37,0.713,0.314,0.447,0.546
+C033,C033-G03,9,C033-G03-C2,We should photograph the meter reading rather than writing it down.,Barnaby_Ofori,2026-07-02 12:45,0.085,0.23,0.063,0.239
+C033,C033-G03,9,C033-G03-C1,The window cleaner hasn't been since the contract lapsed.,Corvin_Nkechinyere,2026-07-02 12:39,0.044,0.166,0.1,0.162
+C034,C034-G01,10,C034-G01-C3,Photographs sent and collection requested.,Bartek_Nwosu,2026-02-19 15:54,0.862,0.802,0.796,0.768
+C034,C034-G01,10,C034-G01-C5,Photographs have gone over and I've asked them for a collection rather than a credit.,Rosalind_Ifeanyi,2026-02-19 15:43,0.298,0.951,0.321,0.48
+C034,C034-G01,10,C034-G01-C1,Ninety day terms against our margin is genuinely painful and we've never said so.,Bartek_Nwosu,2026-02-19 15:43,0.909,0.282,0.182,0.458
+C034,C034-G01,10,C034-G01-C2,The delivery driver has a key he shouldn't have.,Theodelinda_Obi,2026-02-19 16:19,0.094,0.283,0.948,0.276
+C034,C034-G01,10,C034-G01-C4,The floor tape marking the walkway has worn away entirely.,Ludmila_Chukwu,2026-02-19 15:39,0.048,0.348,0.171,0.934
+C035,C035-G01,6,C035-G01-C4,Below grade. I've weighed a sample and it's about 40% stalk.,Dispenser_Nkechi,2026-11-11 11:19,0.79,0.822,0.82,0.813
+C035,C035-G01,6,C035-G01-C2,The fire door on the corridor has been wedged with a bin.,Amadeus_Nwosu,2026-11-11 11:26,0.167,0.217,0.063,0.192
+C035,C035-G01,6,C035-G01-C1,Half the extension numbers on the list are wrong.,Marcellus_Dovey,2026-11-11 11:10,0.078,0.176,0.167,0.155
+C035,C035-G01,6,C035-G01-C3,The signage still points to a department that moved floors.,Fenella_Okorie,2026-11-11 11:19,0.153,0.124,0.139,0.147
+C035,C035-G01,6,C035-G01-C6,The new starter has no locker and has been keeping her coat behind the counter.,Sunniva_Cobb,2026-11-11 11:21,0.152,0.131,0.065,0.166
+C035,C035-G01,6,C035-G01-C5,The customer feedback cards are going straight into the bin unread.,Anastasia_Odili,2026-11-11 11:19,0.02,0.16,0.13,0.174
+C036,C036-G01,11,C036-G01-C5,"Then we take one paper to the client: the rate goes up, and the five day turnaround becomes achievable.",Subs_Leonardo,2026-08-05 19:06,0.919,0.855,0.832,0.776
+C036,C036-G01,11,C036-G01-C2,Then we put the freelance rate up and see whether the three of them come back.,Subs_Leonardo,2026-08-05 23:17,0.906,0.893,0.187,0.794
+C036,C036-G01,11,C036-G01-C1,The shutters are being left half down overnight.,Venetia_Chukwunonso,2026-08-05 19:11,0.098,0.205,0.132,0.24
+C036,C036-G01,11,C036-G01-C4,The chiller alarm is silenced permanently with tape.,Magdalena_Obiageli,2026-08-05 16:44,0.081,0.18,0.063,0.222
+C036,C036-G01,11,C036-G01-C3,We should photograph the meter reading rather than writing it down.,Barnaby_Ofori,2026-08-05 22:20,0.051,0.142,0.074,0.151
+C037,C037-G01,7,C037-G01-C2,"We legally cannot run without it, so that's a hard blocker rather than a worry.",Director_Isadora,2026-01-28 21:24,0.841,0.763,0.801,0.812
+C037,C037-G01,7,C037-G01-C3,I'll ask whether they'd swap to Wednesdays before we start looking elsewhere.,Director_Isadora,2026-01-29 02:43,0.98,0.266,0.906,0.411
+C037,C037-G01,7,C037-G01-C4,"We can't run a single night without chaperones, so it's a blocker rather than a worry.",Cuthbert_Nwabueze,2026-01-28 21:39,0.347,0.947,0.279,0.437
+C037,C037-G01,7,C037-G01-C5,We only have one copy of the key for the meter cupboard.,Barnaby_Selwyn,2026-01-28 22:14,0.108,0.335,0.162,0.885
+C037,C037-G01,7,C037-G01-C1,Nobody has signed the cleaning rota for a fortnight.,Wilhelmina_Crace,2026-01-29 01:20,0.11,0.28,0.328,0.263
+C038,C038-G01,10,C038-G01-C1,"Late November, after the autumn figures are in but before Christmas.",Scheme_Eirwen,2026-09-18 07:11,0.879,0.804,0.102,0.788
+C038,C038-G01,10,C038-G01-C2,The spare trolley wheels don't fit any trolley we own.,Juliana_Chiamaka,2026-09-18 07:14,0.136,0.149,0.806,0.145
+C038,C038-G01,10,C038-G01-C4,We're washing up in the same sink we use for the mop.,Perdita_Nwabia,2026-09-18 07:15,0.13,0.121,0.157,0.221
+C038,C038-G01,10,C038-G01-C3,The invoice template still has last year's VAT number on it.,Halvard_Pym,2026-09-18 07:11,0.138,0.154,0.153,0.183
+C039,C039-G01,7,C039-G01-C4,Then give her the next one unsupervised and check it afterwards.,Horologist_Ambrose,2026-04-24 09:07,0.83,0.785,0.866,0.822
+C039,C039-G01,7,C039-G01-C1,Give her the next wheel unsupervised and check it once it's off the machine.,Griselda_Ezenwa,2026-04-23 22:44,0.173,0.946,0.84,0.844
+C039,C039-G01,7,C039-G01-C2,Nobody checked the generator this month and it's a monthly job.,Gustave_Onwuka,2026-04-24 06:57,0.147,0.223,0.092,0.201
+C039,C039-G01,7,C039-G01-C3,The back corridor light is on a timer that runs out too quickly.,Erasmus_Bello,2026-04-24 08:22,0.099,0.175,0.149,0.204
+C040,C040-G01,4,C040-G01-C1,The heat. The misters are running almost continuously and still not holding it.,Keeper_Xiomara,2026-06-11 10:32,0.024,0.837,0.788,0.797
+C040,C040-G01,4,C040-G01-C5,"A third of the pupae died in customs over those two days, which is a real loss.",Keeper_Xiomara,2026-06-11 10:31,0.829,0.837,0.219,0.755
+C040,C040-G01,4,C040-G01-C3,The lift has been out for six days and the sign says two.,Leopold_Nnaji,2026-06-11 10:20,0.851,0.206,0.119,0.19
+C040,C040-G01,4,C040-G01-C4,The corridor lights are on a sensor that doesn't see anybody.,Fortunata_Ijeoma,2026-06-11 10:23,0.102,0.126,0.156,0.236
+C040,C040-G01,4,C040-G01-C2,The visitor book hasn't been signed by anyone since Tuesday.,Wilhelmine_Azu,2026-06-11 10:34,0.03,0.258,0.123,0.145
+C041,C041-G01,2,C041-G01-C1,Move them to the top field? It's rougher but it drains.,Thaddeus_Nwoko,2026-05-14 07:52,0.867,0.775,0.821,0.185
+C041,C041-G01,2,C041-G01-C3,Plumber is coming Thursday. I've asked for all four to be done at once.,Oleander_Mbeki,2026-05-14 08:04,0.776,0.242,0.437,0.825
+C041,C041-G01,2,C041-G01-C4,Put it in the booking confirmation so nobody can say they weren't told.,Oleander_Mbeki,2026-05-14 07:59,0.495,0.315,0.434,0.53
+C041,C041-G01,2,C041-G01-C2,The staff notice about the shift change never went up.,Ulric_Nnenna,2026-05-14 07:58,0.104,0.131,0.161,0.876
+C041,C041-G01,2,C041-G01-C5,The staff entrance door closer has failed and it slams.,Evangeline_Nwadike,2026-05-14 07:51,0.128,0.194,0.103,0.146
+C041,C041-G02,9,C041-G02-C4,Put it in the booking confirmation so nobody can say they weren't told.,Oleander_Mbeki,2026-05-14 16:26,0.817,0.286,0.782,0.808
+C041,C041-G02,9,C041-G02-C3,Move them to the top field? It's rougher but it drains.,Thaddeus_Nwoko,2026-05-14 15:06,0.714,0.828,0.462,0.634
+C041,C041-G02,9,C041-G02-C2,Plumber is coming Thursday. I've asked for all four to be done at once.,Oleander_Mbeki,2026-05-14 16:58,0.458,0.255,0.414,0.856
+C041,C041-G02,9,C041-G02-C5,The stock system says forty and the shelf says four.,Thomasin_Adigun,2026-05-14 16:03,0.052,0.211,0.18,0.217
+C041,C041-G02,9,C041-G02-C1,The staff entrance door closer has failed and it slams.,Evangeline_Nwadike,2026-05-14 15:15,0.062,0.216,0.112,0.137
+C041,C041-G03,11,C041-G03-C4,Plumber is coming Thursday. I've asked for all four to be done at once.,Oleander_Mbeki,2026-05-14 18:46,0.875,0.811,0.814,0.794
+C041,C041-G03,11,C041-G03-C5,Move them to the top field? It's rougher but it drains.,Thaddeus_Nwoko,2026-05-15 02:10,0.944,0.298,0.446,0.574
+C041,C041-G03,11,C041-G03-C2,Put it in the booking confirmation so nobody can say they weren't told.,Oleander_Mbeki,2026-05-14 22:30,0.705,0.311,0.45,0.568
+C041,C041-G03,11,C041-G03-C3,The forklift keys live in the ignition overnight.,Ulrike_Nwafor,2026-05-14 21:50,0.129,0.236,0.164,0.107
+C041,C041-G03,11,C041-G03-C1,The window display has been the same since before Easter.,Dorian_Achuka,2026-05-15 03:38,0.111,0.148,0.105,0.18
+C042,C042-G01,2,C042-G01-C2,Restricted for how long? That changes whether we reroute or just absorb it.,Anselm_Chukwuma,2026-03-25 08:29,0.822,0.798,0.803,0.791
+C042,C042-G01,2,C042-G01-C3,"Then reroute the aggregate runs and keep the timber on this line, it's less time critical.",Fenella_Adebowale,2026-03-25 08:30,0.481,0.344,0.804,0.528
+C042,C042-G01,2,C042-G01-C4,That puts us over the draught for the shallow section above the junction.,Skipper_Wilhelmina,2026-03-25 08:30,0.716,0.319,0.406,0.542
+C042,C042-G01,2,C042-G01-C5,Two people have the same phone extension listed.,Cassius_Bramwell,2026-03-25 08:26,0.127,0.247,0.146,0.246
+C042,C042-G01,2,C042-G01-C1,The temperature probe reads three degrees out against the calibrated one.,Xenophon_Ifeanyi,2026-03-25 08:25,0.103,0.179,0.169,0.215
+C042,C042-G02,7,C042-G02-C4,"Then reroute the aggregate runs and keep the timber on this line, it's less time critical.",Fenella_Adebowale,2026-03-25 11:02,0.852,0.882,0.769,0.771
+C042,C042-G02,7,C042-G02-C3,Restricted for how long? That changes whether we reroute or just absorb it.,Anselm_Chukwuma,2026-03-25 14:27,0.551,0.233,0.946,0.483
+C042,C042-G02,7,C042-G02-C1,That puts us over the draught for the shallow section above the junction.,Skipper_Wilhelmina,2026-03-25 15:08,0.471,0.282,0.465,0.908
+C042,C042-G02,7,C042-G02-C2,The staff rota is being changed after publication without telling people.,Dulcinea_Chukwuma,2026-03-25 15:45,0.056,0.162,0.143,0.207
+C042,C042-G02,7,C042-G02-C5,The temperature probe reads three degrees out against the calibrated one.,Xenophon_Ifeanyi,2026-03-25 14:22,0.075,0.14,0.074,0.228
+C042,C042-G03,9,C042-G03-C2,That puts us over the draught for the shallow section above the junction.,Skipper_Wilhelmina,2026-03-25 17:18,0.896,0.766,0.844,0.784
+C042,C042-G03,9,C042-G03-C5,Restricted for how long? That changes whether we reroute or just absorb it.,Anselm_Chukwuma,2026-03-25 18:03,0.774,0.318,0.478,0.628
+C042,C042-G03,9,C042-G03-C4,"Then reroute the aggregate runs and keep the timber on this line, it's less time critical.",Fenella_Adebowale,2026-03-25 17:07,0.702,0.309,0.42,0.552
+C042,C042-G03,9,C042-G03-C3,The card machine battery doesn't hold charge past midday.,Jocelyn_Oparah,2026-03-25 17:17,0.087,0.158,0.125,0.169
+C042,C042-G03,9,C042-G03-C1,The chiller curtains are missing from two of the cabinets.,Fulbert_Chinonso,2026-03-25 17:09,0.068,0.202,0.051,0.121
+C043,C043-G01,6,C043-G01-C5,"Flakes, and some of them are sizeable.",Fitter_Berengar,2026-04-02 13:05,0.779,0.841,0.747,0.806
+C043,C043-G01,6,C043-G01-C1,"Flakes rather than a fine suspension, and one or two of them are large.",Fitter_Berengar,2026-04-02 13:04,0.889,0.223,0.718,0.885
+C043,C043-G01,6,C043-G01-C4,Two of the strip lights buzz loudly whenever the compressor runs.,Aurelia_Mbanefo,2026-04-02 11:53,0.136,0.242,0.133,0.182
+C043,C043-G01,6,C043-G01-C2,The staff microwave has a door that doesn't latch properly.,Petra_Nwaeze,2026-04-02 12:13,0.023,0.128,0.185,0.168
+C043,C043-G01,6,C043-G01-C3,The delivery was signed for as complete and it was two boxes short.,Ronan_Adebisi,2026-04-02 12:46,0.078,0.154,0.08,0.177
+C044,C044-G01,4,C044-G01-C2,No. That's the honest answer and it's why it's still there.,Rosalind_Tembe,2026-06-08 08:39,0.893,0.901,0.802,0.222
+C044,C044-G01,4,C044-G01-C4,The delivery bay is being used as overflow storage and the lorry can't turn.,Fabian_Otieno,2026-06-08 14:11,0.114,0.239,0.082,0.749
+C044,C044-G01,4,C044-G01-C5,The drain by the bins backs up whenever it rains hard.,Fitzwilliam_Nde,2026-06-08 09:10,0.127,0.185,0.118,0.187
+C044,C044-G01,4,C044-G01-C1,The training records spreadsheet has two versions and they disagree.,Lucian_Obasi,2026-06-08 11:49,0.051,0.184,0.109,0.21
+C044,C044-G01,4,C044-G01-C3,The delivery driver has nowhere to wait out of the rain.,Valerian_Okafor,2026-06-08 12:34,0.074,0.211,0.114,0.138
+C045,C045-G01,6,C045-G01-C2,That'll be why the last two sockets had thin patches on one side.,Absalom_Nwaneri,2026-09-30 18:24,0.885,0.745,0.836,0.821
+C045,C045-G01,6,C045-G01-C1,"Relieve that area and recheck under load, not just standing still.",Guadalupe_Okri,2026-09-30 16:53,0.781,0.313,0.44,0.666
+C045,C045-G01,6,C045-G01-C3,"I'd rather run two shorter clinics a week than one long one, it moves more people.",Absalom_Nwaneri,2026-09-30 16:34,0.514,0.329,0.48,0.856
+C045,C045-G01,6,C045-G01-C4,We're out of the blue folders and everything is going into green ones.,Bronwen_Adeoye,2026-09-30 15:57,0.117,0.222,0.138,0.137
+C045,C045-G01,6,C045-G01-C5,The bin store light has been out since the clocks changed.,Montague_Ezeh,2026-09-30 17:41,0.091,0.155,0.177,0.164
+C045,C045-G02,10,C045-G02-C5,"I'd rather run two shorter clinics a week than one long one, it moves more people.",Absalom_Nwaneri,2026-10-01 08:21,0.849,0.831,0.791,0.786
+C045,C045-G02,10,C045-G02-C2,"Relieve that area and recheck under load, not just standing still.",Guadalupe_Okri,2026-09-30 22:17,0.931,0.314,0.452,0.64
+C045,C045-G02,10,C045-G02-C1,That'll be why the last two sockets had thin patches on one side.,Absalom_Nwaneri,2026-10-01 07:00,0.682,0.326,0.499,0.579
+C045,C045-G02,10,C045-G02-C4,We're out of the blue folders and everything is going into green ones.,Bronwen_Adeoye,2026-10-01 04:31,0.127,0.191,0.138,0.161
+C045,C045-G02,10,C045-G02-C6,The training records spreadsheet has two versions and they disagree.,Lucian_Obasi,2026-09-30 21:43,0.066,0.189,0.109,0.232
+C045,C045-G02,10,C045-G02-C3,The lift has been out for six days and the sign says two.,Leopold_Nnaji,2026-10-01 06:07,0.081,0.146,0.072,0.227
+C045,C045-G03,12,C045-G03-C3,"Relieve that area and recheck under load, not just standing still.",Guadalupe_Okri,2026-10-01 08:49,0.814,0.801,0.81,0.787
+C045,C045-G03,12,C045-G03-C1,That'll be why the last two sockets had thin patches on one side.,Absalom_Nwaneri,2026-10-01 11:52,0.514,0.98,0.41,0.601
+C045,C045-G03,12,C045-G03-C6,"I'd rather run two shorter clinics a week than one long one, it moves more people.",Absalom_Nwaneri,2026-10-01 10:50,0.695,0.33,0.426,0.565
+C045,C045-G03,12,C045-G03-C2,The visitor book hasn't been signed by anyone since Tuesday.,Wilhelmine_Azu,2026-10-02 01:47,0.131,0.146,0.163,0.193
+C045,C045-G03,12,C045-G03-C4,Somebody keeps unplugging the water cooler to charge a phone.,Delphine_Oyo,2026-10-01 09:29,0.105,0.208,0.088,0.221
+C045,C045-G03,12,C045-G03-C5,The stockroom ladder is stored across the fire exit.,Jasper_Chukwuka,2026-10-02 06:39,0.115,0.204,0.072,0.168
+C046,C046-G01,2,C046-G01-C5,That'll show up as pitting eventually. Get the thermostat replaced rather than watched.,Nkiruka_Sandoval,2026-02-04 07:40,0.876,0.835,0.825,0.731
+C046,C046-G01,2,C046-G01-C6,Same place every time. I'll pull it and inspect under the light.,Plant_Aurelien,2026-02-04 08:27,0.731,0.323,0.453,0.639
+C046,C046-G01,2,C046-G01-C1,Wrong by a digit or completely different?,Nkiruka_Sandoval,2026-02-04 08:04,0.711,0.266,0.38,0.628
+C046,C046-G01,2,C046-G01-C3,The projector remote has been missing for three weeks.,Ferdinand_Ochi,2026-02-04 08:32,0.066,0.154,0.09,0.23
+C046,C046-G01,2,C046-G01-C2,Two people have the same phone extension listed.,Cassius_Bramwell,2026-02-04 07:55,0.071,0.147,0.117,0.177
+C046,C046-G01,2,C046-G01-C4,The staff entrance door closer has failed and it slams.,Evangeline_Nwadike,2026-02-04 07:52,0.03,0.185,0.081,0.177
+C046,C046-G02,10,C046-G02-C3,Wrong by a digit or completely different?,Nkiruka_Sandoval,2026-02-04 13:40,0.816,0.8,0.798,0.81
+C046,C046-G02,10,C046-G02-C5,Same place every time. I'll pull it and inspect under the light.,Plant_Aurelien,2026-02-04 13:38,0.515,0.916,0.414,0.578
+C046,C046-G02,10,C046-G02-C1,That'll show up as pitting eventually. Get the thermostat replaced rather than watched.,Nkiruka_Sandoval,2026-02-04 13:29,0.765,0.357,0.429,0.58
+C046,C046-G02,10,C046-G02-C4,The delivery driver has nowhere to wait out of the rain.,Valerian_Okafor,2026-02-04 13:36,0.135,0.188,0.089,0.195
+C046,C046-G02,10,C046-G02-C2,Two people have the same phone extension listed.,Cassius_Bramwell,2026-02-04 13:32,0.076,0.164,0.042,0.197
+C046,C046-G03,12,C046-G03-C1,Same place every time. I'll pull it and inspect under the light.,Plant_Aurelien,2026-02-06 08:05,0.859,0.824,0.5,0.783
+C046,C046-G03,12,C046-G03-C2,Wrong by a digit or completely different?,Nkiruka_Sandoval,2026-02-06 04:27,0.712,0.297,0.738,0.581
+C046,C046-G03,12,C046-G03-C3,That'll show up as pitting eventually. Get the thermostat replaced rather than watched.,Nkiruka_Sandoval,2026-02-05 12:27,0.552,0.339,0.051,0.883
+C046,C046-G03,12,C046-G03-C5,Somebody has written on the whiteboard in permanent marker.,Griselda_Ashby,2026-02-05 22:22,0.098,0.187,0.403,0.155
+C046,C046-G03,12,C046-G03-C4,The signage still points to a department that moved floors.,Fenella_Okorie,2026-02-05 17:52,0.125,0.158,0.121,0.126
+C047,C047-G01,2,C047-G01-C2,"Did any of them say why, or did they just stop coming?",Ignatius_Oyelaran,2026-10-21 10:25,0.859,0.782,0.785,0.522
+C047,C047-G01,2,C047-G01-C1,"Some of them have been going two years, so that's overdue rather than optional.",Ignatius_Oyelaran,2026-10-21 12:14,0.666,0.359,0.426,0.861
+C047,C047-G01,2,C047-G01-C3,"That's a printer setting and a bit of paper, so there's no excuse for it continuing.",Marisol_Nwadike,2026-10-21 11:54,0.693,0.243,0.423,0.535
+C047,C047-G01,2,C047-G01-C4,The blinds in the south office don't close properly.,Morwenna_Ekong,2026-10-21 11:20,0.077,0.161,0.119,0.195
+C047,C047-G02,4,C047-G02-C2,"Some of them have been going two years, so that's overdue rather than optional.",Ignatius_Oyelaran,2026-10-21 14:38,0.789,0.838,0.786,0.616
+C047,C047-G02,4,C047-G02-C3,"That's a printer setting and a bit of paper, so there's no excuse for it continuing.",Marisol_Nwadike,2026-10-21 14:25,0.584,0.937,0.385,0.781
+C047,C047-G02,4,C047-G02-C4,I know. I'll propose a portfolio approach and see whether they'll accept it.,Ignatius_Oyelaran,2026-10-21 13:37,0.761,0.273,0.426,0.531
+C047,C047-G02,4,C047-G02-C1,The blinds in the south office don't close properly.,Morwenna_Ekong,2026-10-21 13:33,0.053,0.181,0.156,0.132
+C047,C047-G03,8,C047-G03-C4,"That's a printer setting and a bit of paper, so there's no excuse for it continuing.",Marisol_Nwadike,2026-10-21 20:58,0.841,0.879,0.74,0.855
+C047,C047-G03,8,C047-G03-C2,I know. I'll propose a portfolio approach and see whether they'll accept it.,Ignatius_Oyelaran,2026-10-21 21:33,0.943,0.306,0.53,0.536
+C047,C047-G03,8,C047-G03-C1,"Did any of them say why, or did they just stop coming?",Ignatius_Oyelaran,2026-10-21 21:53,0.724,0.261,0.393,0.569
+C047,C047-G03,8,C047-G03-C3,Somebody has moved the defibrillator and not told anyone.,Octavia_Belfour,2026-10-22 00:21,0.059,0.234,0.104,0.228
+C047,C047-G03,8,C047-G03-C5,The forklift charger cable has exposed wire near the plug.,Roderick_Mbogo,2026-10-22 00:20,0.089,0.207,0.097,0.113
+C047,C047-G04,11,C047-G04-C3,I know. I'll propose a portfolio approach and see whether they'll accept it.,Ignatius_Oyelaran,2026-10-22 13:17,0.693,0.82,0.77,0.793
+C047,C047-G04,11,C047-G04-C1,"Did any of them say why, or did they just stop coming?",Ignatius_Oyelaran,2026-10-22 13:03,0.094,0.306,0.469,0.621
+C047,C047-G04,11,C047-G04-C2,"Some of them have been going two years, so that's overdue rather than optional.",Ignatius_Oyelaran,2026-10-22 13:19,0.141,0.256,0.436,0.64
+C047,C047-G04,11,C047-G04-C4,Can we get a second kettle? Twelve people and one kettle is a bottleneck.,Anouk_Stellar,2026-10-22 13:27,0.87,0.155,0.187,0.154
+C047,C047-G04,11,C047-G04-C5,Our opening hours on the door and online don't match.,Rosalie_Nkemdi,2026-10-22 13:30,0.807,0.212,0.113,0.207
+C048,C048-G01,2,C048-G01-C5,"Feeding, stocking or has the skimmer stopped performing?",Valentina_Achebe,2026-07-27 07:49,0.852,0.859,0.822,0.773
+C048,C048-G01,2,C048-G01-C3,"They can go on display, which frees one system but not two.",Valentina_Achebe,2026-07-27 06:46,0.584,0.863,0.421,0.504
+C048,C048-G01,2,C048-G01-C2,Then we delay half the shipment rather than shortcutting quarantine.,Rurik_Nwaozuzu,2026-07-27 07:11,0.733,0.352,0.41,0.643
+C048,C048-G01,2,C048-G01-C4,We're double handling every pallet because of where they get dropped.,Percival_Nsofor,2026-07-27 06:27,0.058,0.186,0.136,0.182
+C048,C048-G01,2,C048-G01-C1,The stock rotation is not happening at all on the top shelf.,Nikolai_Adaeze,2026-07-27 06:47,0.044,0.22,0.067,0.171
+C048,C048-G02,7,C048-G02-C2,"They can go on display, which frees one system but not two.",Valentina_Achebe,2026-07-27 10:54,0.88,0.805,0.771,0.834
+C048,C048-G02,7,C048-G02-C4,Then we delay half the shipment rather than shortcutting quarantine.,Rurik_Nwaozuzu,2026-07-27 11:59,0.494,0.272,0.873,0.525
+C048,C048-G02,7,C048-G02-C6,"Feeding, stocking or has the skimmer stopped performing?",Valentina_Achebe,2026-07-27 11:36,0.757,0.314,0.369,0.589
+C048,C048-G02,7,C048-G02-C5,Somebody has been taking the good pens and I have a suspect.,Quintus_Ibekwe,2026-07-27 12:35,0.12,0.169,0.167,0.237
+C048,C048-G02,7,C048-G02-C1,Our answerphone message still names someone who left in January.,Kasimir_Nwude,2026-07-27 11:03,0.058,0.173,0.185,0.186
+C048,C048-G02,7,C048-G02-C3,We're double handling every pallet because of where they get dropped.,Percival_Nsofor,2026-07-27 11:34,0.052,0.199,0.136,0.151
+C048,C048-G03,12,C048-G03-C3,Then we delay half the shipment rather than shortcutting quarantine.,Rurik_Nwaozuzu,2026-07-27 18:18,0.785,0.798,0.809,0.829
+C048,C048-G03,12,C048-G03-C4,"Feeding, stocking or has the skimmer stopped performing?",Valentina_Achebe,2026-07-28 01:18,0.968,0.318,0.493,0.601
+C048,C048-G03,12,C048-G03-C2,"They can go on display, which frees one system but not two.",Valentina_Achebe,2026-07-28 03:26,0.516,0.289,0.808,0.493
+C048,C048-G03,12,C048-G03-C1,The card machine and the till are on the same overloaded socket.,Kunigunde_Nwabueze,2026-07-27 18:21,0.087,0.191,0.178,0.175
+C048,C048-G03,12,C048-G03-C6,The shutters are being left half down overnight.,Venetia_Chukwunonso,2026-07-27 22:23,0.039,0.155,0.147,0.22
+C048,C048-G03,12,C048-G03-C5,The staff notice about the shift change never went up.,Ulric_Nnenna,2026-07-28 01:35,0.072,0.234,0.113,0.116
+C049,C049-G01,11,C049-G01-C2,Agreed. It'll be out for two days and we're already one unit short.,Depot_Ingvar,2026-01-20 15:44,0.856,0.795,0.768,0.773
+C049,C049-G01,11,C049-G01-C1,It'll be out for two days and we're already running a unit short.,Chinwendu_Roos,2026-01-20 09:14,0.22,0.893,0.814,0.799
+C049,C049-G01,11,C049-G01-C3,The shop radio licence expired and nobody renewed it.,Ariadne_Mbadiwe,2026-01-20 15:54,0.075,0.17,0.149,0.222
+C049,C049-G01,11,C049-G01-C4,Two of the trolleys' brakes don't hold on the slope.,Winifred_Obiora,2026-01-20 13:21,0.073,0.226,0.033,0.171
+C049,C049-G01,11,C049-G01-C5,The water in the upstairs sink runs brown for the first minute.,Adelaide_Nkolika,2026-01-20 13:30,0.103,0.136,0.053,0.124
+C050,C050-G01,7,C050-G01-C2,"Belt, it's glazed. New one is thirty pounds and two hours.",Cornelia_Nwafor,2026-08-18 13:37,0.861,0.836,0.738,0.813
+C050,C050-G01,7,C050-G01-C5,We only have one copy of the key for the meter cupboard.,Barnaby_Selwyn,2026-08-18 15:46,0.168,0.181,0.09,0.213
+C050,C050-G01,7,C050-G01-C1,The photocopier is jamming on anything heavier than eighty gram paper.,Caspian_Mbatha,2026-08-18 16:30,0.153,0.202,0.134,0.156
+C050,C050-G01,7,C050-G01-C3,The temperature probe reads three degrees out against the calibrated one.,Xenophon_Ifeanyi,2026-08-18 19:25,0.103,0.212,0.139,0.11
+C050,C050-G01,7,C050-G01-C4,The card reader by the door beeps but doesn't unlock.,Orinthia_Balu,2026-08-18 17:28,0.11,0.166,0.068,0.206
+C051,C051-G01,2,C051-G01-C6,Did it come back that way or has it been played like that all term?,Fionnbharr_Okeke,2026-03-27 13:48,0.83,0.896,0.789,0.131
+C051,C051-G01,2,C051-G01-C4,Four of the outstanding violins are with students who have already left.,Fionnbharr_Okeke,2026-03-27 10:56,0.875,0.854,0.204,0.849
+C051,C051-G01,2,C051-G01-C1,Two of the strip lights buzz loudly whenever the compressor runs.,Aurelia_Mbanefo,2026-03-27 12:27,0.095,0.144,0.113,0.794
+C051,C051-G01,2,C051-G01-C3,The spare bulbs cupboard is full of bulbs for fittings we removed.,Ivo_Nwachineke,2026-03-27 12:39,0.124,0.195,0.166,0.225
+C051,C051-G01,2,C051-G01-C5,Nobody has claimed the coat that's been on the hook since October.,Theodosia_Nnaka,2026-03-27 13:32,0.077,0.181,0.19,0.223
+C051,C051-G01,2,C051-G01-C2,The gate intercom crackles so badly nobody can hear the caller.,Silas_Obiefune,2026-03-27 12:05,0.091,0.164,0.176,0.161
+C052,C052-G01,6,C052-G01-C1,How much did we lose?,Babatunde_Ferrand,2026-11-27 13:18,0.882,0.808,0.826,0.83
+C052,C052-G01,6,C052-G01-C4,How many days of data has that actually cost us?,Obs_Ragnhild,2026-11-27 13:17,0.265,0.967,0.355,0.442
+C052,C052-G01,6,C052-G01-C3,"Consistently low rather than intermittent, so it isn't ice on the bearings.",Babatunde_Ferrand,2026-11-27 13:40,0.98,0.269,0.297,0.416
+C052,C052-G01,6,C052-G01-C2,The chiller curtains are missing from two of the cabinets.,Fulbert_Chinonso,2026-11-27 13:58,0.097,0.316,0.211,0.94
+C052,C052-G01,6,C052-G01-C5,The visitor book hasn't been signed by anyone since Tuesday.,Wilhelmine_Azu,2026-11-27 13:57,0.102,0.205,0.881,0.289

@@ -1,0 +1,582 @@
+episode_id,message_id,sender,timestamp,text
+C001,C001-M001,Keeper_Absalom,2026-03-18 06:40,"The fog signal cut out twice overnight, both times for about four minutes."
+C001,C001-M002,Rurik_Osei,2026-03-18 07:34,The helipad markings have faded to almost nothing on the eastern half.
+C001,C001-M003,Rurik_Osei,2026-03-18 08:09,Then I'll watch the forecast and do it the first dry morning we get.
+C001,C001-M004,Ludmila_Vry,2026-03-18 08:20,Compressor or the timer relay? It did the same in the autumn and it was the relay.
+C001,C001-M005,Ludmila_Vry,2026-03-18 09:22,Stores delivery has been pushed to the 29th because of the swell.
+C001,C001-M006,Keeper_Absalom,2026-03-18 09:24,We're fine for food but low on diesel for the generator.
+C001,C001-M007,Rurik_Osei,2026-03-18 10:15,How low? There's a difference between tight and a fortnight of candles.
+C001,C001-M008,Keeper_Absalom,2026-03-18 10:34,About nine days at current draw. Tight rather than critical.
+C001,C001-M009,Keeper_Absalom,2026-03-18 18:14,Feels like the relay again. I'd rather swap it than keep logging failures.
+C001,C001-M010,Ludmila_Vry,2026-03-18 22:07,Somebody has been leaving the lamp room door on the latch and the glass is misting.
+C001,C001-M011,Rurik_Osei,2026-03-18 22:22,That'll be me. I'll stop doing it.
+C001,C001-M012,Rurik_Osei,2026-03-19 01:26,"Swap it, but keep the old one bagged so the inspector can see what came out."
+C002,C002-M001,Jocasta_Werrin,2026-05-08 10:15,The dragon marionette has lost tension in two of the strings and the head hangs.
+C002,C002-M002,Xanthe_Rooke,2026-05-08 10:43,Schools are asking whether we do the shorter version for reception classes.
+C002,C002-M003,Pim_Dalgetty,2026-05-08 13:05,The lighting board has developed a dead fader on channel four.
+C002,C002-M004,Jocasta_Werrin,2026-05-08 13:09,The get-in at the arts centre is up three flights with no lift.
+C002,C002-M005,Jocasta_Werrin,2026-05-08 13:15,"Patch four to a spare channel for now, the audience will never know."
+C002,C002-M006,Xanthe_Rooke,2026-05-08 13:17,Then the big castle flat stays at home and we use the painted cloth instead.
+C002,C002-M007,Xanthe_Rooke,2026-05-08 13:40,Then I'll offer twenty-five and be firm about it rather than cutting scenes on the day.
+C002,C002-M008,Pim_Dalgetty,2026-05-08 15:25,Agreed. Two of us carrying that up three flights is how someone gets hurt.
+C002,C002-M009,Pim_Dalgetty,2026-05-09 09:29,Is that the strings themselves or the control bar warping?
+C002,C002-M010,Jocasta_Werrin,2026-05-09 09:31,Bar. It's been in a damp van all winter and it's twisted.
+C002,C002-M011,Xanthe_Rooke,2026-05-09 09:46,"Make a new bar from the spare beech, it's quicker than trying to straighten that."
+C002,C002-M012,Pim_Dalgetty,2026-05-10 12:34,Patched to nine. I'll get the board looked at over the summer break.
+C003,C003-M001,Casimiro_Tell,2026-11-03 07:20,The first pressing came out cloudier than last year and it isn't settling.
+C003,C003-M002,Rosalba_Quill,2026-11-03 07:29,How long between picking and pressing? Anything over a day shows up exactly like that.
+C003,C003-M003,Casimiro_Tell,2026-11-03 07:33,"Two days for the lower grove, because the mill was full."
+C003,C003-M004,Rosalba_Quill,2026-11-03 07:53,"Then the grove schedule has to follow the mill capacity, not the other way round."
+C003,C003-M005,Ignatz_Bell,2026-11-03 12:40,"The decanter pump is leaking at the seal again, there's oil on the floor."
+C003,C003-M006,Casimiro_Tell,2026-11-03 14:31,That's a slip hazard before it's a maintenance problem. Sand it and shut the pump down.
+C003,C003-M007,Rosalba_Quill,2026-11-03 16:54,"The co-operative wants our acidity figures for the whole season, not just the first press."
+C003,C003-M008,Ignatz_Bell,2026-11-03 17:11,"We have them, but they're on paper in three different notebooks."
+C003,C003-M009,Rosalba_Quill,2026-11-03 17:26,Then someone types them up this week while we can still read the handwriting.
+C003,C003-M010,Casimiro_Tell,2026-11-04 08:23,Two of the growers turned up with fruit in plastic sacks again.
+C003,C003-M011,Ignatz_Bell,2026-11-04 08:30,Shut down and taped off. Spare seal kit is in the office cupboard.
+C003,C003-M012,Rosalba_Quill,2026-11-04 08:44,"Refuse politely, and hand them a crate on the way out so there's no excuse next time."
+C004,C004-M001,Driver_Moyra,2026-02-12 08:50,The lift on the van has failed again and there's a wheelchair user on the Thursday stop.
+C004,C004-M002,Tobit_Anand,2026-02-12 09:07,Failed how? If it's the hydraulics we can't bodge it safely.
+C004,C004-M003,Driver_Moyra,2026-02-12 09:09,Hydraulics. It goes halfway and stops.
+C004,C004-M004,Perpetua_Lisk,2026-02-12 09:16,"Then Thursday becomes a doorstep delivery for that stop until it's fixed, and we say so in advance."
+C004,C004-M005,Perpetua_Lisk,2026-02-12 12:23,Large print requests have doubled since the branch closure and we carry about twelve titles.
+C004,C004-M006,Perpetua_Lisk,2026-02-12 12:44,"The children's stock is the only thing keeping the Friday stop viable, so no."
+C004,C004-M007,Tobit_Anand,2026-02-12 21:52,The engine warning light came on between the last two stops yesterday.
+C004,C004-M008,Driver_Moyra,2026-02-13 07:35,Someone returned a book that has clearly been in a bath.
+C004,C004-M009,Driver_Moyra,2026-02-13 07:45,Then we swap out the reference shelf. Nobody has borrowed from it since August.
+C004,C004-M010,Driver_Moyra,2026-02-13 08:56,Did it stay on or clear itself?
+C004,C004-M011,Perpetua_Lisk,2026-02-13 09:43,Write it off and say nothing. Chasing people for a paperback costs more than the paperback.
+C004,C004-M012,Tobit_Anand,2026-02-13 16:49,Stayed on. I've booked it in but the garage can't take it until the 20th.
+C005,C005-M001,Tempering_Ove,2026-09-04 07:36,"Batch 41 has bloomed on the surface, the whole tray has gone grey."
+C005,C005-M002,Benedek_Oyo,2026-09-04 09:07,The wrapping line is jamming about once an hour on the foil feed.
+C005,C005-M003,Tempering_Ove,2026-09-04 09:27,Somebody has left the cocoa butter out overnight and it's a solid block.
+C005,C005-M004,Marguerite_Sill,2026-09-04 09:41,It'll melt back fine. Just don't do it on a Friday.
+C005,C005-M005,Marguerite_Sill,2026-09-04 15:45,Temper or storage? The store has been warmer than it should be all week.
+C005,C005-M006,Tempering_Ove,2026-09-04 15:47,"Storage, I think. The temper curve on that batch was textbook."
+C005,C005-M007,Marguerite_Sill,2026-09-04 19:53,The seasonal range needs signing off by Friday or we miss the print slot for the boxes.
+C005,C005-M008,Tempering_Ove,2026-09-05 09:06,Two flavours are still unresolved and one of them needs a nut-free reformulation.
+C005,C005-M009,Benedek_Oyo,2026-09-05 13:40,Better one late flavour than a whole range with no boxes.
+C005,C005-M010,Benedek_Oyo,2026-09-06 07:35,"Then the store thermostat gets looked at before we run another batch, or we lose those too."
+C005,C005-M011,Marguerite_Sill,2026-09-06 09:09,"Same roll each time, or across rolls?"
+C005,C005-M012,Benedek_Oyo,2026-09-06 11:08,"Across rolls, so it's the machine rather than the stock."
+C006,C006-M001,Marshal_Ptolemy,2026-06-20 09:05,The tyre barrier at turn six has shifted again and it's now inside the track edge.
+C006,C006-M002,Ilinca_Fen,2026-06-20 09:31,Corporate bookings are up but they always overrun into the public session.
+C006,C006-M003,Denholm_Raye,2026-06-20 09:45,Because we brief them for ten minutes and they take twenty-five.
+C006,C006-M004,Ilinca_Fen,2026-06-20 09:50,Then the booking covers the briefing time and the track time starts when we say it does.
+C006,C006-M005,Ilinca_Fen,2026-06-20 10:20,That's the third time this month. Are they bolted or just stacked?
+C006,C006-M006,Marshal_Ptolemy,2026-06-20 10:31,Stacked and strapped. The strapping isn't doing anything at that angle.
+C006,C006-M007,Denholm_Raye,2026-06-20 12:56,Two of the hire karts are down on power and both are the older chassis.
+C006,C006-M008,Ilinca_Fen,2026-06-20 14:58,Carb rebuild or are the engines just tired?
+C006,C006-M009,Denholm_Raye,2026-06-20 16:02,Bolt them through and be done with it. We're one shunt away from a real injury.
+C006,C006-M010,Marshal_Ptolemy,2026-06-20 21:17,The timing loop dropped out during the Saturday final.
+C006,C006-M011,Denholm_Raye,2026-06-21 09:16,"That's a cable, almost certainly. It only ever does it when the ground is wet."
+C006,C006-M012,Marshal_Ptolemy,2026-06-21 16:07,Then retire them from hire and keep them as spares for the cadet sessions.
+C007,C007-M001,Dr_Hildur_Tang,2026-04-27 08:30,The tensile results for the weld coupons are scattering far more than the parent material.
+C007,C007-M002,Osgar_Melin,2026-04-27 08:34,Scatter in the ultimate strength or in the elongation?
+C007,C007-M003,Dr_Hildur_Tang,2026-04-27 08:49,Elongation mostly. Ultimate is reasonably tight.
+C007,C007-M004,Bronwen_Achterberg,2026-04-27 08:52,That pattern usually means inconsistent heat input rather than a bad procedure.
+C007,C007-M005,Bronwen_Achterberg,2026-04-27 12:57,The universal machine is due calibration and the certificate expires on the 30th.
+C007,C007-M006,Osgar_Melin,2026-04-27 13:03,"Nothing goes out the door on an expired certificate, so it has to be this month."
+C007,C007-M007,Osgar_Melin,2026-04-27 17:12,The client wants the report by Friday and two specimens still haven't been machined.
+C007,C007-M008,Dr_Hildur_Tang,2026-04-27 19:26,"Machining takes a day, testing takes half. Friday is possible but there's no slack."
+C007,C007-M009,Osgar_Melin,2026-04-27 19:34,Then I'll tell them Monday and deliver Friday if it goes well. Never the other way round.
+C007,C007-M010,Bronwen_Achterberg,2026-04-27 21:11,Booked for the 28th. We lose a day of testing and keep the accreditation.
+C007,C007-M011,Dr_Hildur_Tang,2026-04-28 07:41,The extensometer clips are slipping on the polished specimens.
+C007,C007-M012,Osgar_Melin,2026-04-28 10:04,Note it in the method section or a reviewer will ask why the surface is marked.
+C008,C008-M001,Coord_Sunniva,2026-10-15 09:40,"The hospital booking on Tuesday needs two interpreters, it's a three hour clinic."
+C008,C008-M002,Thomasina_Vale,2026-10-15 11:44,The college has been booking us for lectures without saying which subject.
+C008,C008-M003,Ferdinand_Oduya,2026-10-15 14:09,"Subject matters enormously for preparation, especially anything technical."
+C008,C008-M004,Thomasina_Vale,2026-10-15 15:40,I'll add a required field to the booking form rather than chasing them each time.
+C008,C008-M005,Ferdinand_Oduya,2026-10-15 18:04,The video relay platform has been dropping frames badly in the afternoons.
+C008,C008-M006,Coord_Sunniva,2026-10-15 19:28,Their end or ours? It matters for who we complain to.
+C008,C008-M007,Coord_Sunniva,2026-10-15 20:22,Then I'll raise it jointly with them. One agency complaining gets ignored.
+C008,C008-M008,Coord_Sunniva,2026-10-15 21:28,Invoices are going out late because the timesheets come in on paper.
+C008,C008-M009,Thomasina_Vale,2026-10-15 21:35,"A form on a phone would fix that, as long as it works without signal."
+C008,C008-M010,Thomasina_Vale,2026-10-16 16:25,I'll take the second half. Ten minutes together in advance makes an enormous difference.
+C009,C009-M001,TowerCap_Eustace,2026-01-21 18:30,The fifth bell's stay is cracked and I've taken it out of use.
+C009,C009-M002,Philippa_Onwudiwe,2026-01-21 20:52,Cracked through or just started? A started crack sometimes lasts a season.
+C009,C009-M003,TowerCap_Eustace,2026-01-21 20:58,Through. It would have gone the next time somebody set it wrong.
+C009,C009-M004,Mungo_Farraday,2026-01-21 21:07,"New stay in ash then, and we ring on the other five until it's in."
+C009,C009-M005,TowerCap_Eustace,2026-01-21 21:51,The tower door lock is seizing in cold weather.
+C009,C009-M006,Philippa_Onwudiwe,2026-01-22 08:12,The wedding on the 14th wants a full peal and they've asked about the noise.
+C009,C009-M007,TowerCap_Eustace,2026-01-22 08:21,A full peal is three hours. They almost certainly mean a quarter.
+C009,C009-M008,Philippa_Onwudiwe,2026-01-22 08:37,I'll ring them and explain the difference rather than guessing.
+C009,C009-M009,Mungo_Farraday,2026-01-22 08:42,Good. We've had that misunderstanding twice and both times it was awkward.
+C009,C009-M010,Mungo_Farraday,2026-01-22 09:13,Practice night attendance is down to five and we need eight for a decent touch.
+C009,C009-M011,Mungo_Farraday,2026-01-22 10:06,Then we ask the neighbouring tower whether they'd like a joint practice.
+C009,C009-M012,Mungo_Farraday,2026-01-22 10:13,"Graphite, not oil. Oil gums it up worse in January."
+C010,C010-M001,Ops_Solveig,2026-07-09 07:10,The haul rope inspection flagged two broken wires in the same lay length.
+C010,C010-M002,Ops_Solveig,2026-07-09 07:33,Agreed. I've called the rope engineer for an assessment this week.
+C010,C010-M003,Henrike_Palu,2026-07-09 09:13,The top station toilets have been out of order for nine days.
+C010,C010-M004,Anselmo_Drax,2026-07-09 10:26,Wind holds have cost us eleven operating hours this month.
+C010,C010-M005,Ops_Solveig,2026-07-09 10:28,Is that above normal for July or does it just feel worse?
+C010,C010-M006,Anselmo_Drax,2026-07-09 10:43,Above. Last July it was four.
+C010,C010-M007,Henrike_Palu,2026-07-09 19:34,The part is in. It's the plumber who can't get up here between the tours.
+C010,C010-M008,Ops_Solveig,2026-07-09 20:31,The evacuation drill is overdue and the whole crew needs to be in it.
+C010,C010-M009,Henrike_Palu,2026-07-09 21:14,Then it's a closed morning. Doing it with passengers on the hill is not a drill.
+C011,C011-M001,Miller_Aurelio,2026-03-06 07:54,The roller gap has drifted on the second break and the flour is coming through coarse.
+C011,C011-M002,Delphina_Krause,2026-03-06 07:57,Drifted or been adjusted? Somebody moved it on the night shift last month.
+C011,C011-M003,Nikodem_Ashby,2026-03-06 08:19,While we're all here — the dust extraction certificate ran out at the end of February.
+C011,C011-M004,Nikodem_Ashby,2026-03-06 17:12,The intake pit grate is bent where a lorry reversed over the edge.
+C011,C011-M005,Miller_Aurelio,2026-03-06 17:22,Bent enough to let something through that shouldn't?
+C011,C011-M006,Nikodem_Ashby,2026-03-06 17:28,Possibly. I'd rather replace it than find out with a stone in the rollers.
+C011,C011-M007,Delphina_Krause,2026-03-06 20:29,The bakery customer wants a finer ash content than we've been delivering.
+C011,C011-M008,Miller_Aurelio,2026-03-07 07:47,"That's a sieving change, and it drops our yield by a few percent."
+C011,C011-M009,Delphina_Krause,2026-03-07 08:32,"That's not a paperwork problem, that's an insurance problem in a flour mill."
+C011,C011-M010,Delphina_Krause,2026-03-07 08:46,"Then it's a price conversation, not a milling one."
+C011,C011-M011,Nikodem_Ashby,2026-03-07 10:54,Exactly why I'm raising it now rather than at the next meeting. I'll book the test this week.
+C012,C012-M001,Sawyer_Ignace,2026-08-13 07:00,The main blade is wandering on wide boards and the cut face is scalloped.
+C012,C012-M002,Orlaith_Benko,2026-08-13 07:19,Tension or guide bearings? Both look the same from the outfeed.
+C012,C012-M003,Ceridwen_Tuft,2026-08-13 09:20,Change all four rather than the one that's obviously gone. They wear as a set.
+C012,C012-M004,Ceridwen_Tuft,2026-08-13 10:15,The oak order is short by about two cubic metres and the customer is collecting Friday.
+C012,C012-M005,Orlaith_Benko,2026-08-13 16:06,The kiln controller lost its schedule during the power cut and ran flat out overnight.
+C012,C012-M006,Ceridwen_Tuft,2026-08-13 16:14,Any checking in the timber?
+C012,C012-M007,Orlaith_Benko,2026-08-13 20:18,Is the shortfall in the wide stock or across the board?
+C012,C012-M008,Ceridwen_Tuft,2026-08-14 07:02,Wide stock. We've enough narrow to make the volume but not the spec.
+C012,C012-M009,Sawyer_Ignace,2026-08-14 07:14,"Then ring them today and offer narrow at a discount or a week's delay. Their choice, not our surprise."
+C012,C012-M010,Sawyer_Ignace,2026-08-14 09:10,Sawdust extraction bags are filling twice as fast since we started the oak run.
+C012,C012-M011,Ceridwen_Tuft,2026-08-14 10:14,"That's normal for oak, but empty them before they're full or the fan works against the load."
+C012,C012-M012,Orlaith_Benko,2026-08-14 10:57,Some surface checking on the top layer. The rest looks sound.
+C013,C013-M001,Falconer_Yseult,2026-05-30 08:15,The young harris hawk is flying heavy and won't come to the glove reliably.
+C013,C013-M002,Cosima_Ravel,2026-05-30 09:16,The weathering ground fencing has a gap at the eastern corner where a fox could get through.
+C013,C013-M003,Boniface_Mwangi,2026-05-30 10:17,What weight is she at compared with last season?
+C013,C013-M004,Falconer_Yseult,2026-05-30 11:40,"About forty grams up. That's the whole problem, really."
+C013,C013-M005,Cosima_Ravel,2026-05-30 13:13,Doing it now with the spare mesh.
+C013,C013-M006,Boniface_Mwangi,2026-05-30 18:53,School bookings want the owl for every session and she's getting no rest days.
+C013,C013-M007,Boniface_Mwangi,2026-05-30 19:03,"Parents ask for the owl by name, but that's not a good enough reason."
+C013,C013-M008,Falconer_Yseult,2026-05-31 09:20,The scales in the weighing room are reading about eight grams light.
+C013,C013-M009,Boniface_Mwangi,2026-05-31 09:27,That's enough to matter for a small bird. Calibrate them before anything else today.
+C014,C014-M001,Instructor_Kaito,2026-06-27 07:35,The Saturday beginner group has been too big for one instructor in that shorebreak.
+C014,C014-M002,Mairead_Considine,2026-06-27 07:42,How many are we putting in the water at once?
+C014,C014-M003,Tiernan_Ubadike,2026-06-27 08:03,Two of the soft boards have delaminated and the foam is soaking through.
+C014,C014-M004,Mairead_Considine,2026-06-27 08:16,Which leaves us how many usable ones for a full session?
+C014,C014-M005,Instructor_Kaito,2026-06-27 09:06,Fourteen. It should be eight with those conditions.
+C014,C014-M006,Mairead_Considine,2026-06-27 19:47,The lifeguard cover finishes at five and our late session ends at half past.
+C014,C014-M007,Tiernan_Ubadike,2026-06-27 20:06,Then the late session ends at quarter to five or it doesn't run.
+C014,C014-M008,Instructor_Kaito,2026-06-27 20:16,Quarter to five. I'll change the timetable on the website tonight.
+C014,C014-M009,Instructor_Kaito,2026-06-27 20:38,"Then eight is the cap, and we open a second Saturday session instead of squeezing them in."
+C014,C014-M010,Tiernan_Ubadike,2026-06-27 21:59,The wetsuit rinse tank has gone green and it smells.
+C014,C014-M011,Mairead_Considine,2026-06-28 09:02,"Drain it, scrub it and refill it weekly rather than topping it up."
+C015,C015-M001,Currier_Absolom,2026-02-25 09:20,The vegetable tanned hides from the last delivery are stiffer than the sample we approved.
+C015,C015-M002,Wilhelmina_Tice,2026-02-25 09:29,"Stiffer as in badly finished, or just a heavier substance than we ordered?"
+C015,C015-M003,Currier_Absolom,2026-02-25 09:46,Heavier substance. Three millimetres where we asked for two.
+C015,C015-M004,Odalys_Brennt,2026-02-25 10:43,Then it's a supplier error and they take it back. Three millimetre leather makes a terrible wallet.
+C015,C015-M005,Odalys_Brennt,2026-02-25 14:59,The bag commission needs a matching strap and we have no hide long enough.
+C015,C015-M006,Currier_Absolom,2026-02-25 18:08,Two workshop places for the beginners' course are still unsold.
+C015,C015-M007,Odalys_Brennt,2026-02-25 18:17,I'll show the customer how the join sits before I cut anything.
+C015,C015-M008,Odalys_Brennt,2026-02-25 18:23,Offer them to the waiting list from last time rather than advertising again.
+C015,C015-M009,Wilhelmina_Tice,2026-02-25 19:02,The clicking press has started leaving a faint line outside the die edge.
+C015,C015-M010,Currier_Absolom,2026-02-25 21:04,"That's the cutting board rather than the press, it's worn hollow in the middle."
+C015,C015-M011,Wilhelmina_Tice,2026-02-26 09:36,"That filled it within a day in November, so yes."
+C015,C015-M012,Wilhelmina_Tice,2026-02-26 10:15,Turn it over and we get another year out of it.
+C016,C016-M001,Presenter_Yevgenia,2026-10-08 14:10,The projector's star field is soft on the southern horizon and it's been getting worse.
+C016,C016-M002,Alard_Munkhbat,2026-10-08 16:18,Focus drift or dust on the optics?
+C016,C016-M003,Presenter_Yevgenia,2026-10-08 16:36,"Dust, I think. It's uniform rather than in one quadrant."
+C016,C016-M004,Sibylla_Crake,2026-10-08 16:46,Book the service now. Half term with a soft dome is the worst possible timing.
+C016,C016-M005,Sibylla_Crake,2026-10-08 17:29,The schools programme has one show for every age group and the youngest sit through the wrong one.
+C016,C016-M006,Alard_Munkhbat,2026-10-08 19:30,"The reclining seats in row C have stopped reclining, which is the whole point of them."
+C016,C016-M007,Sibylla_Crake,2026-10-09 07:59,Then we shorten the existing one for the youngest and cut the constellation section.
+C016,C016-M008,Presenter_Yevgenia,2026-10-09 09:03,Mechanism or the frame? The frames were bent by somebody standing on them.
+C016,C016-M009,Alard_Munkhbat,2026-10-09 09:22,Frames. Two are visibly twisted.
+C016,C016-M010,Presenter_Yevgenia,2026-10-09 10:13,The evening lecture series sells out but the daytime shows are half empty.
+C016,C016-M011,Sibylla_Crake,2026-10-09 10:17,Move one of the daytime slots to an evening and see whether it just follows the time.
+C016,C016-M012,Sibylla_Crake,2026-10-09 20:39,Take the row out of use rather than letting people sit bolt upright for an hour.
+C017,C017-M001,Importer_Rukhsana,2026-07-16 08:05,The cardamom shipment has been held at the port for moisture testing.
+C017,C017-M002,Emeric_Vaszary,2026-07-16 08:25,Held routinely or because something flagged?
+C017,C017-M003,Importer_Rukhsana,2026-07-16 08:27,Flagged. The container had condensation on the doors when it was opened.
+C017,C017-M004,Teodora_Nkemelu,2026-07-16 09:12,"Then assume we lose the top layer and price the rest accordingly, rather than hoping."
+C017,C017-M005,Importer_Rukhsana,2026-07-16 14:02,The pallet racking in the back store has a bent upright.
+C017,C017-M006,Teodora_Nkemelu,2026-07-16 14:19,Two wholesale customers have asked for origin certificates we've never had to provide before.
+C017,C017-M007,Emeric_Vaszary,2026-07-16 14:22,That's the new labelling rules. It'll be all of them by the autumn.
+C017,C017-M008,Teodora_Nkemelu,2026-07-16 14:29,Then I'd rather get the paperwork process right once than scramble twice.
+C017,C017-M009,Emeric_Vaszary,2026-07-16 18:11,The grinding room smells of cumin no matter what we run through it.
+C017,C017-M010,Importer_Rukhsana,2026-07-16 18:18,It always will. The question is whether it's carrying over into the product.
+C017,C017-M011,Emeric_Vaszary,2026-07-16 18:35,"It is, faintly, in the milder blends."
+C017,C017-M012,Teodora_Nkemelu,2026-07-16 18:52,"Then mild blends get ground first in the day, before anything strong."
+C018,C018-M001,Pyro_Casimir,2026-09-11 16:40,The council have moved the fallout zone boundary and it now clips the car park.
+C018,C018-M002,Rhiannon_Sowah,2026-09-11 16:43,"By how much? A few metres we can design around, twenty we cannot."
+C018,C018-M003,Pyro_Casimir,2026-09-11 17:21,About fifteen. It rules out the big shells entirely from that firing position.
+C018,C018-M004,Lazslo_Winterbourne,2026-09-11 17:38,Then we move the firing position rather than shrink the display.
+C018,C018-M005,Rhiannon_Sowah,2026-09-11 18:48,The wedding client wants a low-noise display because of livestock nearby.
+C018,C018-M006,Pyro_Casimir,2026-09-11 19:28,"That's doable but it changes the whole character, and it costs more per minute."
+C018,C018-M007,Rhiannon_Sowah,2026-09-11 19:47,"Show them a low-noise clip before they book, not after."
+C018,C018-M008,Lazslo_Winterbourne,2026-09-11 21:07,The magazine inspection is due and one of the store locks doesn't match the register.
+C018,C018-M009,Rhiannon_Sowah,2026-09-12 08:39,"That's the sort of finding that closes a company, not just a site."
+C018,C018-M010,Pyro_Casimir,2026-09-12 09:20,The crew for the 5th is one short and everyone needs the certificate.
+C018,C018-M011,Rhiannon_Sowah,2026-09-12 09:38,Then we ask the team we shared with in spring rather than using anyone uncertificated.
+C018,C018-M012,Lazslo_Winterbourne,2026-09-13 07:48,I know. I'm rekeying it today and correcting the register properly.
+C019,C019-M001,Pilot_Ottoline,2026-05-05 05:50,Surface wind is fine but the gradient at three hundred feet is nearly twenty knots.
+C019,C019-M002,Bartholomew_Eze,2026-05-05 06:07,That's a fast landing at best. What's the retrieve access like downwind?
+C019,C019-M003,Pilot_Ottoline,2026-05-05 08:06,Ploughed fields for six miles. I'd rather not.
+C019,C019-M004,Bartholomew_Eze,2026-05-05 08:30,Two burners are showing uneven flame on the pilot light.
+C019,C019-M005,Pilot_Ottoline,2026-05-05 08:47,Jets or regulator pressure?
+C019,C019-M006,Bartholomew_Eze,2026-05-05 09:07,"Jets, I'd say. They're overdue a strip and clean."
+C019,C019-M007,Sunniva_Achampong,2026-05-05 09:19,Do both burners at once so they behave the same in the air.
+C019,C019-M008,Pilot_Ottoline,2026-05-05 09:23,A landowner has complained about a retrieve vehicle crossing a wet field.
+C019,C019-M009,Sunniva_Achampong,2026-05-05 11:16,The envelope is coming up for its hundred hour inspection in about six flights.
+C019,C019-M010,Sunniva_Achampong,2026-05-05 15:42,Booked. I'll hold the fabric test results with the certificate this time.
+C020,C020-M001,Curator_Adaora,2026-11-19 09:00,The germination test on the 2019 wheat accessions has come back at 61%.
+C020,C020-M002,Kristoffer_Baena,2026-11-19 09:07,"That's below the regeneration threshold, so those need growing out next season."
+C020,C020-M003,Curator_Adaora,2026-11-19 09:10,"All eleven of them, which is more field space than we've allocated."
+C020,C020-M004,Marisol_Ivanchuk,2026-11-19 13:35,Then we prioritise by uniqueness. Two of those are duplicated in the national collection.
+C020,C020-M005,Marisol_Ivanchuk,2026-11-19 14:50,The freezer alarm dialled out at the weekend and nobody answered it.
+C020,C020-M006,Kristoffer_Baena,2026-11-19 15:42,A researcher has asked for material from an accession with incomplete passport data.
+C020,C020-M007,Kristoffer_Baena,2026-11-19 16:10,Whose numbers are on the call list?
+C020,C020-M008,Marisol_Ivanchuk,2026-11-19 18:00,Two people who left in 2023. That's the actual problem.
+C020,C020-M009,Kristoffer_Baena,2026-11-19 20:47,I'll draft it that way and flag the gaps explicitly.
+C020,C020-M010,Curator_Adaora,2026-11-20 09:20,The drying room humidity has been creeping up since the new dehumidifier was fitted.
+C020,C020-M011,Kristoffer_Baena,2026-11-20 10:46,"New unit undersized, almost certainly. Check its rated volume against the room."
+C020,C020-M012,Marisol_Ivanchuk,2026-11-20 14:54,"And log it, because that's the third request against a thin record this year."
+C021,C021-M001,Grower_Ottavio,2026-03-30 07:08,Tip burn has appeared across the whole of bay three in the last two days.
+C021,C021-M002,Henrietta_Boakye,2026-03-30 07:22,"Calcium uptake rather than calcium levels, usually. How's the airflow in there?"
+C021,C021-M003,Zbigniew_Marr,2026-03-30 07:45,The nutrient dosing pump is over-delivering on channel two by about 8%.
+C021,C021-M004,Henrietta_Boakye,2026-03-30 07:57,Calibration drift or a worn tube?
+C021,C021-M005,Zbigniew_Marr,2026-03-30 08:02,Worn tube. They're cheap and we should just change them quarterly.
+C021,C021-M006,Grower_Ottavio,2026-03-30 08:31,One of the circulation fans has been off since the electrician was in.
+C021,C021-M007,Henrietta_Boakye,2026-03-30 18:44,"The supermarket buyer wants a fixed weekly volume all year, including December."
+C021,C021-M008,Grower_Ottavio,2026-03-30 18:51,December yield is two thirds of June at the same energy cost. It's the worst month to promise.
+C021,C021-M009,Grower_Ottavio,2026-03-30 20:44,"The reservoir needs draining and scrubbing, there's biofilm on the walls."
+C021,C021-M010,Henrietta_Boakye,2026-03-31 08:56,"Do it between crops rather than mid-cycle, it's a two day job done properly."
+C022,C022-M001,Manager_Perpetua,2026-01-14 08:35,The hydrocarbon machine is leaving a faint smell on wool coats.
+C022,C022-M002,Manager_Perpetua,2026-01-14 09:08,Later than they should have been. That's on me.
+C022,C022-M003,Ademola_Steen,2026-01-14 10:03,The Saturday queue is out the door between eleven and one every week.
+C022,C022-M004,Manager_Perpetua,2026-01-14 10:38,The boiler pressure drops overnight and someone has to top it up every morning.
+C022,C022-M005,Manager_Perpetua,2026-01-14 11:00,That's collection traffic. A self-service rail with tickets would take most of it.
+C022,C022-M006,Ademola_Steen,2026-01-14 11:29,"Only if the tagging is reliable, otherwise we're hunting for items with a queue watching."
+C022,C022-M007,Cordelia_Vasquez,2026-01-14 12:58,"Trial it with the shirt service first, that's where the volume is."
+C022,C022-M008,Cordelia_Vasquez,2026-01-14 15:17,A customer says we shrank a cashmere jumper and wants the replacement cost.
+C022,C022-M009,Ademola_Steen,2026-01-14 15:21,Was it ticketed as hand finish? If so we've got a process to point to.
+C022,C022-M010,Cordelia_Vasquez,2026-01-14 15:34,"It was, and the ticket is still attached, which helps enormously."
+C023,C023-M001,Tuner_Rosamunde,2026-04-08 09:15,The concert hall's Steinway is going out of tune within a fortnight of every visit.
+C023,C023-M002,Gideon_Arinze,2026-04-08 09:31,That room's humidity swing is enormous between rehearsal and performance.
+C023,C023-M003,Tuner_Rosamunde,2026-04-08 11:03,Which means the instrument is fine and the building isn't.
+C023,C023-M004,Fionnuala_Okpara,2026-04-08 15:04,The co-op's shared van needs replacing and we've not agreed how to split the cost.
+C023,C023-M005,Gideon_Arinze,2026-04-09 08:28,Two new members have asked about insurance cover for working in customers' homes.
+C023,C023-M006,Tuner_Rosamunde,2026-04-09 08:35,The co-op policy covers them but only once they're on the register.
+C023,C023-M007,Fionnuala_Okpara,2026-04-09 10:19,"Then getting them on the register is this week's job, not next month's."
+C023,C023-M008,Gideon_Arinze,2026-04-10 19:37,By mileage or by membership? Those give very different answers.
+C023,C023-M009,Fionnuala_Okpara,2026-04-12 09:23,"Humidity would explain the hall, yes. On the van — I've worked out that a flat membership share plus a small per-job charge covers the replacement in four years without anyone having to keep a logbook, and I'd rather propose that than keep arguing about mileage."
+C023,C023-M010,Tuner_Rosamunde,2026-04-12 10:10,That's workable. Put actual numbers on it before the next meeting or it'll drift again.
+C024,C024-M001,TeamLead_Brynmor,2026-12-05 19:20,"Callout on the north ridge, two walkers benighted, one with a suspected ankle fracture."
+C024,C024-M002,TeamLead_Brynmor,2026-12-05 21:00,Top car park. The track is passable in the Land Rover as far as the gate.
+C024,C024-M003,TeamLead_Brynmor,2026-12-05 22:17,The training weekend has nine confirmed and we can take fourteen.
+C024,C024-M004,Emrys_Kovalenko,2026-12-05 22:45,Two of the head torches failed their check and both are the same batch.
+C024,C024-M005,Emrys_Kovalenko,2026-12-05 22:59,"I'll bring the vacuum splint and the second casualty bag, it's below freezing up there."
+C024,C024-M006,Saoirse_Adeyemo,2026-12-06 01:10,Same batch failing together usually means the cells rather than the units.
+C024,C024-M007,Saoirse_Adeyemo,2026-12-06 06:46,The radio repeater on the eastern hill has been unreliable since the gales.
+C024,C024-M008,TeamLead_Brynmor,2026-12-06 09:18,Unreliable how? Intermittent is worse than dead for us.
+C024,C024-M009,Emrys_Kovalenko,2026-12-06 10:18,Then I'll replace the cells across all of them rather than testing one at a time.
+C024,C024-M010,Emrys_Kovalenko,2026-12-07 19:54,Water ingress at the antenna joint then. Someone needs to go up with silicone tape.
+C025,C025-M001,Pilot_Cormac,2026-08-22 05:40,The dredger has left a spoil mound just south of the channel marker.
+C025,C025-M002,Ingeborg_Lyle,2026-08-22 06:24,Charted or not? That's the difference between a nuisance and an incident.
+C025,C025-M003,Nkosana_Reilly,2026-08-22 06:40,"Put it in the pilot's notice as well, not just on the radio."
+C025,C025-M004,Nkosana_Reilly,2026-08-22 09:48,The launch's starboard engine is overheating above about fifteen knots.
+C025,C025-M005,Ingeborg_Lyle,2026-08-22 14:22,The new tidal window for the deep draught vessels is tighter than the old one by forty minutes.
+C025,C025-M006,Pilot_Cormac,2026-08-22 14:35,Forty minutes is significant when a berthing takes ninety.
+C025,C025-M007,Ingeborg_Lyle,2026-08-22 14:39,Which is why I want it modelled properly rather than worked out on the bridge.
+C025,C025-M008,Pilot_Cormac,2026-08-22 18:49,Two of the ladders on the boarding platform are past their inspection date.
+C025,C025-M009,Ingeborg_Lyle,2026-08-23 02:37,Out of service today. Boarding is the most dangerous thing we do.
+C025,C025-M010,Nkosana_Reilly,2026-08-23 15:41,"Intake, I'd guess. She was fine until we came through the weed bank last week."
+C026,C026-M001,Rigger_Zephyrine,2026-02-06 16:15,The trapeze rigging point needs its annual load test and the certificate is in the office.
+C026,C026-M002,Alistair_Nwafor,2026-02-06 16:42,"Test first, then find the certificate. The paperwork doesn't hold anyone up."
+C026,C026-M003,Rigger_Zephyrine,2026-02-06 16:55,Fair. I'll get the tester booked for the half term closure.
+C026,C026-M004,Rigger_Zephyrine,2026-02-06 18:27,The heating in the main space has been off all week and people are training cold.
+C026,C026-M005,Marisela_Toth,2026-02-06 19:19,Cold muscles and aerial work is an injury waiting to happen. Chase it today.
+C026,C026-M006,Marisela_Toth,2026-02-06 19:53,The youth showcase has thirty performers and the stage safely holds about eighteen.
+C026,C026-M007,Marisela_Toth,2026-02-07 07:43,"And nothing goes on that point until it's signed off, including rehearsal."
+C026,C026-M008,Alistair_Nwafor,2026-02-07 08:49,The crash mats are compressing badly in the middle and they're only two years old.
+C026,C026-M009,Rigger_Zephyrine,2026-02-07 09:59,Two years of daily use is a lot for foam at that density.
+C026,C026-M010,Alistair_Nwafor,2026-02-07 10:50,Then we buy the higher density ones and stop treating them as a five year purchase.
+C026,C026-M011,Alistair_Nwafor,2026-02-09 08:56,Then it's two casts rather than one enormous finale.
+C026,C026-M012,Marisela_Toth,2026-02-09 09:05,"Two casts means two nights, which the families will actually prefer."
+C027,C027-M001,Kiln_Ferdinand,2026-06-03 07:13,The glaze is crazing on about one tile in twelve from the last firing.
+C027,C027-M002,Anneliese_Dumont,2026-06-03 15:34,The architect on the hotel job wants a colour match to a tile made in 1974.
+C027,C027-M003,Kiln_Ferdinand,2026-06-03 17:32,"We can get close, but close is a problem when it's next to the original."
+C027,C027-M004,Anneliese_Dumont,2026-06-03 17:45,"Body and glaze fit, or is the kiln cooling too fast at the top?"
+C027,C027-M005,Anneliese_Dumont,2026-06-03 17:47,"Then we say so now, in writing, with a sample."
+C027,C027-M006,Kiln_Ferdinand,2026-06-03 18:03,Cooling. The crazed ones are all from the upper shelves.
+C027,C027-M007,Rasmus_Ihejirika,2026-06-03 18:12,Slow the cooling ramp below six hundred and see whether it clears.
+C027,C027-M008,Rasmus_Ihejirika,2026-06-03 19:34,"Different matter, but the clay supplier has changed the body composition without telling us."
+C027,C027-M009,Rasmus_Ihejirika,2026-06-03 20:01,"More ball clay, apparently. Which means our sizing is now wrong across the whole range."
+C027,C027-M010,Kiln_Ferdinand,2026-06-04 07:57,The pallet wrapper has broken and we're hand wrapping everything.
+C027,C027-M011,Rasmus_Ihejirika,2026-06-04 09:07,Hire one for the week rather than losing two people to it.
+C028,C028-M001,TypeDir_Ilse,2026-09-24 10:30,The italic's hinting is falling apart at small sizes on Windows.
+C028,C028-M002,TypeDir_Ilse,2026-09-24 11:58,"Manual, and the diagonals are where it's worst."
+C028,C028-M003,Ottilie_Marchetti,2026-09-24 12:14,Then we hint the diagonals by hand and leave the rest to the autohinter.
+C028,C028-M004,Ottilie_Marchetti,2026-09-24 16:29,A publisher wants an unlimited licence for what they call internal use.
+C028,C028-M005,Jasper_Oyelowo,2026-09-24 17:43,Internal use means something different to every company that says it.
+C028,C028-M006,Ottilie_Marchetti,2026-09-24 17:45,Then I'll define it in the agreement rather than accepting their phrase.
+C028,C028-M007,TypeDir_Ilse,2026-09-24 20:21,The specimen site has broken on mobile since the last update.
+C028,C028-M008,Ottilie_Marchetti,2026-09-24 20:41,Broken as in ugly or broken as in the type doesn't load?
+C028,C028-M009,Jasper_Oyelowo,2026-09-24 20:54,Doesn't load. Which on a type foundry's website is quite the look.
+C028,C028-M010,Jasper_Oyelowo,2026-09-25 07:44,The variable font is over the size limit for the web version by about forty kilobytes.
+C028,C028-M011,TypeDir_Ilse,2026-09-25 10:04,"Drop the optical size axis for the web build, nobody uses it below fourteen point anyway."
+C028,C028-M012,Jasper_Oyelowo,2026-09-25 10:08,That gets us comfortably under. I'll keep the full axis set for the desktop release.
+C028,C028-M013,Ottilie_Marchetti,2026-09-25 12:38,Document the difference clearly or someone will report it as a bug.
+C029,C029-M001,Smith_Aurelian,2026-03-12 07:15,The gate commission needs forty scrolls and I've made eleven in two days.
+C029,C029-M002,Morwenna_Diallo,2026-03-12 07:49,The coke delivery is late again and we're down to about two days.
+C029,C029-M003,Smith_Aurelian,2026-03-12 07:55,Can we run the small work on the gas forge and save the coke for the gate?
+C029,C029-M004,Morwenna_Diallo,2026-03-12 08:13,"That works, and it's what we should be doing anyway for the small stuff."
+C029,C029-M005,Morwenna_Diallo,2026-03-12 08:28,Are you drawing each one down from bar or using the jig?
+C029,C029-M006,Tavish_Oyinlola,2026-03-12 10:23,The power hammer is running unevenly and the dies aren't meeting square.
+C029,C029-M007,Tavish_Oyinlola,2026-03-12 11:09,I'll change the standing order to fortnightly so we stop cutting it this fine.
+C029,C029-M008,Tavish_Oyinlola,2026-03-12 12:02,Guides are worn on one side. That explains the whole thing.
+C029,C029-M009,Smith_Aurelian,2026-03-12 13:34,From bar. The jig marks the outside face.
+C029,C029-M010,Smith_Aurelian,2026-03-12 15:09,Someone has put a hardy tool back in the slack tub.
+C029,C029-M011,Tavish_Oyinlola,2026-03-12 16:12,Then we make a better jig. Forty by hand is a fortnight we haven't quoted for.
+C029,C029-M012,Tavish_Oyinlola,2026-03-12 16:30,It'll rust solid by Monday. I'll fish it out and oil it.
+C030,C030-M001,Designer_Espen,2026-05-21 09:45,The new delta is collapsing a wingtip in anything above fifteen knots.
+C030,C030-M002,Nadiya_Oyelaran,2026-05-21 09:49,Spreader stiffness or the sail tension? They look identical in the air.
+C030,C030-M003,Designer_Espen,2026-05-21 10:08,Spreader. A stiffer one fixes it but adds thirty grams.
+C030,C030-M004,Rasheeda_Lindqvist,2026-05-21 10:18,Thirty grams on a kite that size is nothing compared with it folding up.
+C030,C030-M005,Rasheeda_Lindqvist,2026-05-21 13:52,The ripstop supplier has changed their coating and the colours are bleeding in the wash test.
+C030,C030-M006,Nadiya_Oyelaran,2026-05-21 15:35,The festival order wants two hundred units in six weeks and we normally do eighty a month.
+C030,C030-M007,Designer_Espen,2026-05-21 16:48,That's a second machinist or it's a no.
+C030,C030-M008,Nadiya_Oyelaran,2026-05-21 17:04,"Then it's a second machinist, and I'd rather hire for three months than turn it down."
+C030,C030-M009,Rasheeda_Lindqvist,2026-05-21 17:17,"Agreed, but train them on the simple single-line kites first, not the deltas."
+C030,C030-M010,Designer_Espen,2026-05-21 17:30,The instruction leaflets are still showing the old knot diagram.
+C030,C030-M011,Nadiya_Oyelaran,2026-05-22 10:29,Bleeding into the white panels or generally?
+C030,C030-M012,Rasheeda_Lindqvist,2026-05-22 10:35,"Into the white, which is exactly where anyone would notice."
+C031,C031-M001,Supervisor_Ignatius,2026-04-16 09:16,The anchor points on the north elevation have no test certificates from the building owner.
+C031,C031-M002,Benicio_Faraday,2026-04-16 10:05,Two sets of ropes are coming up for retirement in July.
+C031,C031-M003,Benicio_Faraday,2026-04-16 10:27,Ordering replacements now so there's no temptation in July.
+C031,C031-M004,Priyasha_Amadou,2026-04-16 15:22,The office block job wants us working while the windows are occupied inside.
+C031,C031-M005,Supervisor_Ignatius,2026-04-16 15:30,"That's fine technically, but people object to someone appearing outside their desk."
+C031,C031-M006,Supervisor_Ignatius,2026-04-16 15:45,The pigeon mess on the seventh floor ledges is worse than the survey suggested.
+C031,C031-M007,Priyasha_Amadou,2026-04-16 20:31,"Then the client tells their staff in advance, with dates and floors."
+C031,C031-M008,Priyasha_Amadou,2026-04-17 08:35,Then nobody goes over the edge there until we've had them tested ourselves.
+C031,C031-M009,Benicio_Faraday,2026-04-17 11:21,Good. Last time we absorbed the blame for that and it happened again six months later.
+C032,C032-M001,Presser_Hollis,2026-10-01 08:00,The bittersweet apples have come in soft and they're blocking the mill.
+C032,C032-M002,Presser_Hollis,2026-10-01 09:17,Over-ripe. They've sat in the orchard a week longer than they should have.
+C032,C032-M003,Lucius_Berrigan,2026-10-01 09:24,Mill them with a share of the harder fruit rather than on their own.
+C032,C032-M004,Lucius_Berrigan,2026-10-01 12:05,Fermentation in tank two has stuck at about 1.010 and it's been five days.
+C032,C032-M005,Ottavia_Nnadi,2026-10-01 13:12,Temperature or nitrogen? That juice was very clean going in.
+C032,C032-M006,Lucius_Berrigan,2026-10-01 13:29,"Nitrogen, probably. Clean juice ferments beautifully and then stops."
+C032,C032-M007,Presser_Hollis,2026-10-01 16:42,The press cloths are splitting and we're down to four good ones.
+C032,C032-M008,Ottavia_Nnadi,2026-10-01 16:45,Order eight. Running short mid-pressing costs more than the cloths.
+C032,C032-M009,Ottavia_Nnadi,2026-10-01 20:24,The farm shop wants bottles with their own label on our cider.
+C032,C032-M010,Presser_Hollis,2026-10-01 20:39,That's fine as long as the duty and the producer details stay correct on the back.
+C032,C032-M011,Ottavia_Nnadi,2026-10-04 08:41,I'll design it so their branding is front only and our compliance text is untouched.
+C032,C032-M012,Lucius_Berrigan,2026-10-04 08:50,"And keep a photograph of the approved artwork, because they will change it."
+C033,C033-M001,PanHouse_Severin,2026-07-02 08:00,Crystal size has dropped in pan three and the buyers will notice immediately.
+C033,C033-M002,Kasimir_Tunde,2026-07-02 08:18,The drying floor has a cracked tile and salt is getting underneath it.
+C033,C033-M003,PanHouse_Severin,2026-07-02 08:22,Density. The feed has been weaker since we switched abstraction points.
+C033,C033-M004,Yolanda_Achebe,2026-07-02 09:51,The gourmet packing line is running at half speed because the scoops keep jamming.
+C033,C033-M005,PanHouse_Severin,2026-07-02 12:08,Jamming on the coarse grade or all of them?
+C033,C033-M006,Yolanda_Achebe,2026-07-02 12:32,Coarse only. The scoop geometry is wrong for that crystal.
+C033,C033-M007,Kasimir_Tunde,2026-07-02 12:53,Lifting it Thursday when pan three is down anyway.
+C033,C033-M008,Kasimir_Tunde,2026-07-02 13:15,Then we need a second scoop set rather than forcing one to do both.
+C033,C033-M009,PanHouse_Severin,2026-07-03 08:00,A tour group walked onto the pan floor yesterday without a guide.
+C033,C033-M010,Yolanda_Achebe,2026-07-03 08:32,"That door should be locked, not signed. Signs don't stop anybody."
+C034,C034-M001,Shop_Emmeline,2026-02-19 10:05,The college account is ordering through us but paying ninety days late every term.
+C034,C034-M002,Bartek_Nwosu,2026-02-19 10:56,Ninety days on our margin is genuinely painful. Have we ever said so plainly?
+C034,C034-M003,Shop_Emmeline,2026-02-19 11:13,"Not plainly, no. I've been polite about it for two years."
+C034,C034-M004,Rosalind_Ifeanyi,2026-02-19 11:24,"Then be plain once, in writing, with a proposed thirty day term."
+C034,C034-M005,Rosalind_Ifeanyi,2026-02-19 11:55,"The oil paint wall is a mess, three brands mixed together by colour."
+C034,C034-M006,Bartek_Nwosu,2026-02-19 14:53,"Customers browse by brand for paint and by colour for pencils, in my experience."
+C034,C034-M007,Rosalind_Ifeanyi,2026-02-19 15:11,Then I'll reorganise it by brand on Sunday before we open.
+C034,C034-M008,Bartek_Nwosu,2026-02-19 15:21,Two of the easels arrived with damaged legs and the supplier wants photographs.
+C034,C034-M009,Shop_Emmeline,2026-02-19 15:37,"Send them, but also tell them we want a collection, not a credit note."
+C034,C034-M010,Shop_Emmeline,2026-02-19 16:26,The life drawing group has asked whether they can use the back room on Wednesdays.
+C034,C034-M011,Rosalind_Ifeanyi,2026-02-19 17:47,Only if they tidy it. The last group left charcoal on everything.
+C034,C034-M012,Rosalind_Ifeanyi,2026-02-19 17:55,"Keep them in the stockroom until they've gone, not on the shop floor."
+C035,C035-M001,Dispenser_Nkechi,2026-11-11 09:30,The dried nettle has come in with a lot of stalk and very little leaf.
+C035,C035-M002,Marguerite_Osazuwa,2026-11-11 10:24,The labelling rules for our own blends have changed and our labels don't comply.
+C035,C035-M003,Ferdinand_Kalu,2026-11-11 10:27,How many products does that touch?
+C035,C035-M004,Marguerite_Osazuwa,2026-11-11 10:43,Twenty-two. Which is a fortnight of work and a printing bill.
+C035,C035-M005,Ferdinand_Kalu,2026-11-11 11:08,"Below the grade we ordered, or just an ugly batch?"
+C035,C035-M006,Marguerite_Osazuwa,2026-11-11 11:28,Send it back with the weights written down. A vague complaint gets a vague answer.
+C035,C035-M007,Ferdinand_Kalu,2026-11-11 18:06,The consultation room is double-booked on Tuesdays with the workshop.
+C035,C035-M008,Dispenser_Nkechi,2026-11-11 19:39,"The workshop can move to the evening, consultations can't."
+C035,C035-M009,Dispenser_Nkechi,2026-11-11 19:48,The tincture press is dripping onto the floor from the collection spout.
+C035,C035-M010,Ferdinand_Kalu,2026-11-11 20:33,New gasket. There's a set in the drawer under the bench.
+C035,C035-M011,Ferdinand_Kalu,2026-11-12 14:08,Then workshops go to Tuesday evenings from next month.
+C035,C035-M012,Marguerite_Osazuwa,2026-11-12 14:27,"And the calendar gets one owner, because this is the third clash this year."
+C036,C036-M001,Subs_Leonardo,2026-08-05 09:10,The turnaround on the documentary series has slipped to nine days against a five day contract.
+C036,C036-M002,Hyacinth_Obioma,2026-08-05 12:09,Is that the subtitling itself or the QC pass?
+C036,C036-M003,Valentina_Achterberg,2026-08-05 12:28,The client's delivery platform keeps rejecting files for a frame rate mismatch.
+C036,C036-M004,Subs_Leonardo,2026-08-05 13:18,QC. One person is checking everything and she's the bottleneck by definition.
+C036,C036-M005,Hyacinth_Obioma,2026-08-05 13:58,The house style guide contradicts itself on how to handle overlapping dialogue.
+C036,C036-M006,Valentina_Achterberg,2026-08-05 14:08,Which is why every freelancer does it differently and QC catches all of it.
+C036,C036-M007,Subs_Leonardo,2026-08-05 14:19,Fix the guide first. It's an afternoon's work and it saves hours every week.
+C036,C036-M008,Valentina_Achterberg,2026-08-05 15:00,Three freelancers have handed back work this month citing the rate.
+C036,C036-M009,Hyacinth_Obioma,2026-08-05 16:03,"The rate hasn't changed in four years, so in real terms it has fallen a long way."
+C036,C036-M010,Valentina_Achterberg,2026-08-05 16:11,"And it's the same problem as the QC backlog — we can't recruit a second checker at that rate either, so the turnaround and the pay question are one decision."
+C036,C036-M011,Hyacinth_Obioma,2026-08-06 07:07,Their spec says one thing and their template says another. I'll get it in writing.
+C037,C037-M001,Director_Isadora,2026-01-28 17:00,"We've lost the rehearsal room on Thursdays from February, the hall has been let to a fitness class."
+C037,C037-M002,Cuthbert_Nwabueze,2026-01-28 17:15,Thursday is the only night the whole cast is free.
+C037,C037-M003,Philomena_Achike,2026-01-28 19:00,Two of the older cast members have exams the week of the show.
+C037,C037-M004,Director_Isadora,2026-01-28 19:44,I know. I'm asking whether they'd swap to Wednesdays before I look elsewhere.
+C037,C037-M005,Cuthbert_Nwabueze,2026-01-28 20:26,The chaperone rota is short for two of the four nights.
+C037,C037-M006,Philomena_Achike,2026-01-28 21:05,"Ask, but start looking anyway. We can't lose three weeks finding out."
+C037,C037-M007,Cuthbert_Nwabueze,2026-01-29 07:36,"Both in significant parts, which makes understudies not optional."
+C037,C037-M008,Cuthbert_Nwabueze,2026-01-29 08:05,Then I'll ask parents directly rather than sending a general appeal.
+C037,C037-M009,Philomena_Achike,2026-01-29 08:12,Direct asks work. General appeals never have.
+C037,C037-M010,Director_Isadora,2026-01-29 08:22,The set flats from last year have warped in the damp store.
+C037,C037-M011,Philomena_Achike,2026-01-29 08:33,"Rebuild the two worst and re-skin the rest, it's cheaper than starting again."
+C037,C037-M012,Philomena_Achike,2026-01-29 10:01,I'll cast understudies this week and rehearse them properly rather than in a panic.
+C038,C038-M001,Scheme_Eirwen,2026-09-17 07:25,The intake screen is blocking with leaf litter twice a day now autumn has started.
+C038,C038-M002,Anouska_Balogun,2026-09-17 08:19,Generation was 12% below forecast last month despite decent rainfall.
+C038,C038-M003,Domhnall_Okeke,2026-09-17 10:15,Is the automatic rake working or is someone clearing it by hand?
+C038,C038-M004,Domhnall_Okeke,2026-09-17 10:54,"That tracks the screen blockage exactly, if the intake is starved half the day."
+C038,C038-M005,Scheme_Eirwen,2026-09-17 12:09,"By hand, because the rake's drive chain snapped in August."
+C038,C038-M006,Anouska_Balogun,2026-09-17 12:21,Then the chain is the priority job. Everything else on the list can wait.
+C038,C038-M007,Domhnall_Okeke,2026-09-17 12:33,The community shareholders' meeting is due and we've no date.
+C038,C038-M008,Anouska_Balogun,2026-09-17 13:00,I'll hold the report until the chain is fixed so we're not explaining a fault as a trend.
+C038,C038-M009,Scheme_Eirwen,2026-09-18 07:09,The fish pass counter has recorded nothing for eleven days.
+C038,C038-M010,Domhnall_Okeke,2026-09-18 07:17,I'll propose the 19th and book the village hall provisionally.
+C038,C038-M011,Anouska_Balogun,2026-09-18 07:26,"That's a dead sensor rather than an empty river, at this time of year."
+C038,C038-M012,Anouska_Balogun,2026-09-18 10:18,Provisionally is fine as long as somebody confirms it within the week.
+C039,C039-M001,Horologist_Ambrose,2026-04-23 10:20,The turret clock is losing about four minutes a week since the overhaul.
+C039,C039-M002,Griselda_Ezenwa,2026-04-23 14:06,Losing steadily or does it lose it all in one go?
+C039,C039-M003,Horologist_Ambrose,2026-04-23 14:14,"Steadily, which points at the pendulum rather than the escapement."
+C039,C039-M004,Wolfgang_Aduba,2026-04-23 15:47,The museum wants us to service eleven clocks in their reserve collection.
+C039,C039-M005,Griselda_Ezenwa,2026-04-23 16:06,Service or conserve? Those are completely different jobs and prices.
+C039,C039-M006,Griselda_Ezenwa,2026-04-23 21:56,The apprentice has finished her first wheel cutting and it's genuinely good.
+C039,C039-M007,Wolfgang_Aduba,2026-04-24 09:14,"That's how the rest of us learned, and it worked."
+C039,C039-M008,Wolfgang_Aduba,2026-04-24 15:10,"They've said service, but I think they mean make them run."
+C039,C039-M009,Wolfgang_Aduba,2026-04-24 15:28,"Pendulum sounds right for a steady loss. On the museum job — I've been back to them and they do want them running, including two that have never run since acquisition, which is a conservation decision rather than ours to make, so I've asked them to get their curator to put the intent in writing before we quote."
+C039,C039-M010,Horologist_Ambrose,2026-04-24 15:56,Quite right. We've been blamed before for restoring something somebody wanted left alone.
+C040,C040-M001,Keeper_Xiomara,2026-06-11 08:40,Humidity in the flight house has been sitting at 55% and it needs to be nearer 75%.
+C040,C040-M002,Keeper_Xiomara,2026-06-11 09:55,The nectar feeders are growing mould in this weather.
+C040,C040-M003,Padraig_Uchenna,2026-06-11 10:16,Misters failing or is the glass losing it faster in this heat?
+C040,C040-M004,Beatrix_Olamide,2026-06-11 10:37,Then we shade the south glass rather than running the misters into the ground.
+C040,C040-M005,Beatrix_Olamide,2026-06-11 10:57,Daily changes rather than every other day until it cools down.
+C040,C040-M006,Beatrix_Olamide,2026-06-11 14:44,The pupae delivery was held in customs for two days and about a third have died.
+C040,C040-M007,Padraig_Uchenna,2026-06-11 15:44,Visitors keep touching the butterflies despite the signs and the briefing.
+C040,C040-M008,Keeper_Xiomara,2026-06-11 16:02,Signs and briefings don't work. A member of staff standing in the room does.
+C040,C040-M009,Padraig_Uchenna,2026-06-11 16:45,Held for paperwork or for inspection?
+C040,C040-M010,Beatrix_Olamide,2026-06-11 16:48,"Paperwork, which is the infuriating kind."
+C040,C040-M011,Padraig_Uchenna,2026-06-11 17:36,Then we roster someone into the flight house at peak times rather than the front desk.
+C040,C040-M012,Beatrix_Olamide,2026-06-11 18:18,It also means someone is there when a visitor panics about one landing on them.
+C041,C041-M001,Warden_Grainne,2026-05-14 07:50,The bottom field is waterlogged again and we've got fourteen pitches booked on it.
+C041,C041-M002,Warden_Grainne,2026-05-14 08:12,Fourteen pitches won't fit up there without losing the rally field.
+C041,C041-M003,Oleander_Mbeki,2026-05-14 08:18,Then we cancel four bookings with a full refund rather than towing cars out all weekend.
+C041,C041-M004,Thaddeus_Nwoko,2026-05-14 10:10,Late arrivals keep driving in after eleven and waking the whole site.
+C041,C041-M005,Warden_Grainne,2026-05-14 10:17,Then the barrier stays down after ten thirty and late arrivals park in the overflow.
+C041,C041-M006,Thaddeus_Nwoko,2026-05-14 10:36,"They'll complain, but the people already asleep were complaining first."
+C041,C041-M007,Oleander_Mbeki,2026-05-14 14:47,The shower block has one working thermostatic valve out of four.
+C041,C041-M008,Thaddeus_Nwoko,2026-05-14 17:18,Half term with one hot shower will be the only thing anyone reviews.
+C041,C041-M009,Warden_Grainne,2026-05-15 07:08,The recycling point is being used by people who aren't staying here.
+C041,C041-M010,Thaddeus_Nwoko,2026-05-15 07:24,Move it inside the barrier. That solves it without a single confrontation.
+C042,C042-M001,Skipper_Wilhelmina,2026-03-25 08:22,The lock at the junction is on restricted operation and we'll lose four hours on the run.
+C042,C042-M002,Skipper_Wilhelmina,2026-03-25 08:32,"Three weeks, according to the notice."
+C042,C042-M003,Fenella_Adebowale,2026-03-25 09:27,The hold covers are leaking at the forward end and the timber is getting wet.
+C042,C042-M004,Anselm_Chukwuma,2026-03-25 09:41,"Wet timber is a claim waiting to happen, especially on the joinery grade."
+C042,C042-M005,Fenella_Adebowale,2026-03-25 09:43,I'll sheet it properly today and get the covers reseated in the yard next week.
+C042,C042-M006,Anselm_Chukwuma,2026-03-25 17:05,The customer wants us to load an extra thirty tonnes on the same run.
+C042,C042-M007,Anselm_Chukwuma,2026-03-25 18:55,"Then it's two runs or a lighter load, and they need to hear that today."
+C042,C042-M008,Fenella_Adebowale,2026-03-25 19:39,"Say it in tonnes and centimetres, not as a general worry. They'll argue with a worry."
+C042,C042-M009,Skipper_Wilhelmina,2026-03-26 09:47,The engine room bilge alarm went off twice overnight and cleared itself.
+C042,C042-M010,Fenella_Adebowale,2026-03-26 09:58,A float switch that sticks is still an alarm you'll ignore one day. Replace it.
+C043,C043-M001,Fitter_Berengar,2026-04-02 07:40,The gearbox on the trawler has metal in the oil sample.
+C043,C043-M002,Tancred_Mbekele,2026-04-02 09:46,The crane in the yard is out of test and we've a lift booked for Monday.
+C043,C043-M003,Sunniva_Ogundipe,2026-04-02 10:04,Then Monday's lift doesn't happen. There's no version of that we can talk ourselves into.
+C043,C043-M004,Sunniva_Ogundipe,2026-04-02 10:38,Fine suspension or actual flakes? One is wear and the other is a rebuild.
+C043,C043-M005,Sunniva_Ogundipe,2026-04-02 11:52,Parts for the older engines are taking three weeks from the mainland.
+C043,C043-M006,Tancred_Mbekele,2026-04-02 13:20,Then tell the skipper today. He's planning to sail on Thursday.
+C043,C043-M007,Fitter_Berengar,2026-04-02 21:10,Can we hold a small stock of the things that always fail?
+C043,C043-M008,Sunniva_Ogundipe,2026-04-02 21:24,"Impellers, seals and one set of injectors would cover most of it."
+C043,C043-M009,Tancred_Mbekele,2026-04-02 21:27,Order them. Three weeks tied alongside costs the boats far more than the shelf space.
+C043,C043-M010,Fitter_Berengar,2026-04-03 08:02,The waste oil tank is nearly full and the collection is overdue.
+C043,C043-M011,Tancred_Mbekele,2026-04-03 08:07,"Chase them today, because we can't stop work over it and we can't spill it either."
+C043,C043-M012,Tancred_Mbekele,2026-04-03 08:14,Agreed. I'll get the tester out and tell the customer why it's moving.
+C044,C044-M001,Rosalind_Tembe,2026-06-08 08:06,The fleece from last year is still in bags in the barn and it's starting to smell.
+C044,C044-M002,Farmer_Odalys,2026-06-08 08:09,Shearing is booked for the 19th and two of the females are due to give birth around then.
+C044,C044-M003,Cathal_Nwabudike,2026-06-08 08:24,Unskirted fleece stored damp is basically compost. Has it been sorted at all?
+C044,C044-M004,Cathal_Nwabudike,2026-06-08 15:23,The mill wants a minimum of twenty kilos of one colour to run a batch.
+C044,C044-M005,Farmer_Odalys,2026-06-08 15:37,We've got that in fawn but nothing like it in the darker greys.
+C044,C044-M006,Cathal_Nwabudike,2026-06-08 15:52,Then fawn goes to the mill and the greys get sold raw to hand spinners.
+C044,C044-M007,Rosalind_Tembe,2026-06-08 16:02,"Hand spinners pay better per kilo anyway, they just buy less of it."
+C044,C044-M008,Farmer_Odalys,2026-06-09 07:55,The water trough in the top paddock is leaking at the ballcock.
+C044,C044-M009,Cathal_Nwabudike,2026-06-09 08:03,"I'll fit a new one this afternoon, we've got a spare in the shed."
+C044,C044-M010,Cathal_Nwabudike,2026-06-10 13:49,"Shear them first and separately, or leave them until after?"
+C044,C044-M011,Farmer_Odalys,2026-06-12 21:38,After. The stress isn't worth it and the fleece will keep.
+C044,C044-M012,Rosalind_Tembe,2026-06-13 13:04,Then we plan a second short visit rather than trying to do everything on one day.
+C045,C045-M001,Prosthetist_Ilaria,2026-09-30 09:25,The socket fit on the new below-knee is causing pressure at the fibular head.
+C045,C045-M002,Absalom_Nwaneri,2026-09-30 09:32,Is he reporting it or is it showing on the liner?
+C045,C045-M003,Prosthetist_Ilaria,2026-09-30 09:46,"Both, which means it's real and he's been putting up with it."
+C045,C045-M004,Prosthetist_Ilaria,2026-09-30 10:37,The carbon dust extraction in the grinding room is weak.
+C045,C045-M005,Guadalupe_Okri,2026-09-30 15:50,The vacuum former's heating elements are uneven across the platen.
+C045,C045-M006,Guadalupe_Okri,2026-09-30 18:47,Exactly. I've stopped using it for anything structural until it's repaired.
+C045,C045-M007,Absalom_Nwaneri,2026-09-30 20:51,The waiting list for first fittings is at eleven weeks.
+C045,C045-M008,Prosthetist_Ilaria,2026-09-30 21:00,Eleven weeks after an amputation is a long time to be without anything.
+C045,C045-M009,Guadalupe_Okri,2026-10-01 08:41,"Try it for a month and count, rather than arguing about it in theory."
+C045,C045-M010,Guadalupe_Okri,2026-10-02 09:42,"Then nobody grinds without a mask until it's tested, regardless of the job."
+C046,C046-M001,Plant_Aurelien,2026-02-04 07:30,The galvanics bath temperature has been drifting overnight.
+C046,C046-M002,Nkiruka_Sandoval,2026-02-04 08:50,A label wants a thousand units in four weeks and we're quoting nine.
+C046,C046-M003,Plant_Aurelien,2026-02-04 09:18,The press is putting a visible ridge on the B side about two tracks in.
+C046,C046-M004,Nkiruka_Sandoval,2026-02-04 09:36,Stamper or the puck weight? A ridge in the same place every time is usually the stamper.
+C046,C046-M005,Ozren_Tafari,2026-02-04 10:45,The label print run has the catalogue number wrong on the A side.
+C046,C046-M006,Plant_Aurelien,2026-02-04 11:42,Nine is honest. Four would mean bumping three other customers who booked earlier.
+C046,C046-M007,Nkiruka_Sandoval,2026-02-04 12:01,"Then nine it is, and I'll offer them a partial delivery at six if that helps."
+C046,C046-M008,Ozren_Tafari,2026-02-04 13:06,"Partial deliveries are how we keep the small labels, so yes."
+C046,C046-M009,Ozren_Tafari,2026-02-04 15:33,"One digit, which is worse because nobody spots it until a collector does."
+C046,C046-M010,Ozren_Tafari,2026-02-06 08:56,Check the whole batch that's been pressed since Friday before any of it ships.
+C047,C047-M001,Tutor_Perpetue,2026-10-21 10:10,Three learners have dropped out of the Tuesday group in a fortnight.
+C047,C047-M002,Marisol_Nwadike,2026-10-21 12:54,The volunteer tutors haven't had any training since they started.
+C047,C047-M003,Marisol_Nwadike,2026-10-21 14:48,"I'll run two sessions, one daytime and one evening, so everyone can actually attend."
+C047,C047-M004,Ignatius_Oyelaran,2026-10-21 19:22,The funder wants progress measured with a standard assessment.
+C047,C047-M005,Tutor_Perpetue,2026-10-21 20:46,We've no large print materials at all and two learners need them.
+C047,C047-M006,Tutor_Perpetue,2026-10-22 08:09,Two just stopped. One said the room was too formal and it felt like school.
+C047,C047-M007,Tutor_Perpetue,2026-10-22 13:01,A formal test is exactly what frightened half these learners away from education first time.
+C047,C047-M008,Marisol_Nwadike,2026-10-22 13:33,"Offer it with an example attached. Abstract alternatives get refused, concrete ones get considered."
+C047,C047-M009,Marisol_Nwadike,2026-10-23 07:01,That's worth taking seriously. The library meeting room would feel completely different.
+C048,C048-M001,LifeSupport_Odhran,2026-07-27 06:20,Nitrate in the reef system has climbed to 25 and it was 8 a fortnight ago.
+C048,C048-M002,LifeSupport_Odhran,2026-07-27 08:02,Skimmer. The neck is coated and it's barely producing.
+C048,C048-M003,Rurik_Nwaozuzu,2026-07-27 08:19,Strip and clean it tonight rather than tomorrow. That curve doesn't flatten on its own.
+C048,C048-M004,Valentina_Achebe,2026-07-27 10:20,The quarantine system is full and there's a shipment arriving Thursday.
+C048,C048-M005,LifeSupport_Odhran,2026-07-27 10:32,Can anything come out early? The two wrasse have been clear for three weeks.
+C048,C048-M006,Rurik_Nwaozuzu,2026-07-27 13:03,The backup generator failed its monthly run test this morning.
+C048,C048-M007,Valentina_Achebe,2026-07-27 13:48,"Failed to start, or started and dropped out?"
+C048,C048-M008,LifeSupport_Odhran,2026-07-27 15:41,The chiller on the cold water display is short cycling.
+C048,C048-M009,Valentina_Achebe,2026-07-27 15:44,"Log the temperatures hourly until the engineer comes, that display has no margin."
+C048,C048-M010,Rurik_Nwaozuzu,2026-07-28 06:08,Started and dropped out after about forty seconds.
+C049,C049-M001,Depot_Ingvar,2026-01-19 05:45,Tram 14 has a flat spot on the wheel and you can hear it from the street.
+C049,C049-M002,Chinwendu_Roos,2026-01-19 06:36,"Then it comes off service for turning, not for monitoring."
+C049,C049-M003,Marisela_Obuya,2026-01-19 12:40,The overhead line inspection found a worn contact wire at the depot throat.
+C049,C049-M004,Depot_Ingvar,2026-01-19 13:03,The pit lighting in bay two has been out for a week.
+C049,C049-M005,Chinwendu_Roos,2026-01-19 13:44,Worn to the point of replacement or just noted?
+C049,C049-M006,Chinwendu_Roos,2026-01-19 17:17,Driver sign-on has been chaotic since the roster change.
+C049,C049-M007,Depot_Ingvar,2026-01-19 18:54,Chaotic how? Late starts or people turning up for the wrong duty?
+C049,C049-M008,Chinwendu_Roos,2026-01-19 19:02,"Wrong duty, mostly. The new roster codes look almost identical."
+C049,C049-M009,Marisela_Obuya,2026-01-19 19:07,Then we change the codes rather than asking people to read more carefully at five in the morning.
+C049,C049-M010,Marisela_Obuya,2026-01-20 07:46,Close to the limit. It'll need doing in the next possession.
+C049,C049-M011,Marisela_Obuya,2026-01-20 16:02,Better two days short than a cracked wheel on the viaduct.
+C049,C049-M012,Chinwendu_Roos,2026-01-21 05:28,Working under a tram with a torch in your teeth is how people lose fingers.
+C050,C050-M001,Grower_Thaddea,2026-08-18 07:59,Downy mildew has appeared in the bottom two rows after all that humidity.
+C050,C050-M002,Oisin_Mbaye,2026-08-18 09:35,Is it spreading up the hill or holding in the wet corner?
+C050,C050-M003,Grower_Thaddea,2026-08-18 11:33,"Holding, so far. But picking starts in three weeks."
+C050,C050-M004,Cornelia_Nwafor,2026-08-18 13:17,The picking machine's belt is slipping under a full load.
+C050,C050-M005,Oisin_Mbaye,2026-08-18 13:19,Belt or the tensioner? It was adjusted at the end of last season.
+C050,C050-M006,Cornelia_Nwafor,2026-08-18 13:28,Treat now and accept the cost. An infected crop at picking is worth nothing at all.
+C050,C050-M007,Oisin_Mbaye,2026-08-18 19:28,The brewery wants whole cone rather than pellets this year.
+C050,C050-M008,Grower_Thaddea,2026-08-19 09:04,The kiln floor has a soft board in the corner.
+C050,C050-M009,Cornelia_Nwafor,2026-08-19 09:52,Replace it before picking. Nobody wants to go through a kiln floor in September.
+C050,C050-M010,Grower_Thaddea,2026-08-20 09:13,"Whole cone means our drying has to be far more consistent, and storage is bulkier."
+C050,C050-M011,Oisin_Mbaye,2026-08-20 09:33,"They know, and they're paying a premium for it."
+C050,C050-M012,Cornelia_Nwafor,2026-08-20 09:42,Then we do one variety whole cone as a trial rather than committing the whole harvest.
+C051,C051-M001,Librarian_Ottavia,2026-03-27 10:50,The cello that came back from the youth orchestra has an open seam along the lower bout.
+C051,C051-M002,Librarian_Ottavia,2026-03-27 13:55,"Played, I think. There's rosin dust inside the opening."
+C051,C051-M003,Zephyrine_Nnorom,2026-03-27 14:07,"Then the loan form needs a line about reporting damage immediately, because clearly it doesn't."
+C051,C051-M004,Fionnbharr_Okeke,2026-03-27 14:56,The insurance valuation hasn't been updated since the collection was assessed in 2018.
+C051,C051-M005,Librarian_Ottavia,2026-03-27 15:06,"Instrument values have moved a great deal since then, mostly upward."
+C051,C051-M006,Fionnbharr_Okeke,2026-03-27 15:31,Which means we're underinsured on the older instruments specifically.
+C051,C051-M007,Zephyrine_Nnorom,2026-03-27 15:32,We've eleven violins out and fourteen students starting in September.
+C051,C051-M008,Zephyrine_Nnorom,2026-03-27 15:39,Get a valuer in before the autumn renewal rather than after a loss.
+C051,C051-M009,Librarian_Ottavia,2026-03-28 07:26,The storeroom humidity swings whenever the heating comes on.
+C051,C051-M010,Fionnbharr_Okeke,2026-03-28 08:52,Are any of the outstanding ones with students who've left?
+C051,C051-M011,Zephyrine_Nnorom,2026-03-28 09:03,"Four, and two of those left two years ago."
+C051,C051-M012,Fionnbharr_Okeke,2026-03-28 14:37,A couple of case humidifiers would cost less than one cracked table.
+C052,C052-M001,Obs_Ragnhild,2026-11-27 07:05,The anemometer at the summit site has been reading low since the ice event.
+C052,C052-M002,Babatunde_Ferrand,2026-11-27 07:17,Low or intermittent? Iced bearings usually stick rather than under-read.
+C052,C052-M003,Obs_Ragnhild,2026-11-27 07:27,"Consistently low, about 15% against the reference mast."
+C052,C052-M004,Cosima_Nwakanma,2026-11-27 07:34,"Then it needs swapping rather than defrosting, and the data since the event needs flagging."
+C052,C052-M005,Cosima_Nwakanma,2026-11-27 13:07,The data logger at the coastal site filled its card and stopped rather than overwriting.
+C052,C052-M006,Cosima_Nwakanma,2026-11-27 14:04,Nine days. Which is the second time this year on the same unit.
+C052,C052-M007,Babatunde_Ferrand,2026-11-27 18:55,The university wants raw sub-minute data and we only publish hourly means.
+C052,C052-M008,Obs_Ragnhild,2026-11-27 20:10,"We hold the raw data, it's just never been cleaned for release."
+C052,C052-M009,Obs_Ragnhild,2026-11-28 07:59,The access track to the summit site is impassable until spring.
+C052,C052-M010,Cosima_Nwakanma,2026-11-28 09:31,"Then whatever we're swapping up there happens on one trip, with a list."
+C052,C052-M011,Babatunde_Ferrand,2026-11-29 07:23,Then release it as raw with a clear caveat rather than promising a cleaned version we won't deliver.
+C052,C052-M012,Cosima_Nwakanma,2026-11-29 07:26,"Agreed, and put the known outage periods in the same file so nobody analyses a gap as calm weather."
